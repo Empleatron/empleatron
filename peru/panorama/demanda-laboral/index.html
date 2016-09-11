@@ -1,0 +1,312 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="es-es">
+
+<!-- Mirrored from 127.0.0.1:8000/peru/panorama/demanda-laboral/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 03 Sep 2016 17:15:32 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="description"  content="Empleatron. Peru"/>
+    <meta property="fb:admins" content="1246280540" />
+
+    <title>Panorama del mercado laboral peruano</title>
+    
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','http://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-49607583-1', 'empleatron.com');
+      ga('require', 'displayfeatures');
+      ga('require', 'linkid', 'linkid.html');
+      ga('send', 'pageview');
+    </script>
+
+    
+    <link rel="icon" type="image/ico" href="../../..//static/website/img/icons/favicon.ico">
+
+    <!-- codigo y estilos fijos-->
+    <link rel="stylesheet" href="../../..//static/website/css/core.css"/>
+    <script src="../../..//static/website/js/jquery.js"></script>
+
+    <!-- SCRIPT DE NAVEGADOR -->
+    <script>
+        $(document).ready(function(){
+            $("nav > ul > li").each(function(){
+                // verifica si link es igual a    pagina relativa actual
+                if ($("a",this)[0].href == window.location.href)
+                    if(!$(this).hasClass("active"))
+                    $(this).addClass("active");
+                else
+                    $(this).removeClass("active");
+            });
+        });
+
+    </script>
+
+    <!-- REDES SOCIALES SDK -->
+    <!-- FACEBOOK -->
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "http://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    </script>
+
+    <!-- TWITTER -->
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+    <!-- LINKEDIN -->
+    <script src="http://platform.linkedin.com/in.js" type="text/javascript">
+      lang: en_US
+    </script>
+
+
+    
+<style type="text/css">
+    .chart {
+      display: block;
+      margin: auto;
+      margin-top: 40px;
+    }
+    rect {
+      fill: none;
+    }
+</style>
+
+
+    
+<script type="text/javascript" src="../../..//static/website/js/d3.js"></script>
+
+</head>
+
+<body>
+<div id="fb-root"></div>
+
+
+
+<div class="wrapper">
+    <!-- header -->
+    <div id="header-wrapper">
+
+        <nav id="nav">
+            <!-- Logo            --->
+            <div id="header-logo">
+                <ol class="social-icons-nav social-icons white-icon" style="list-style: none">
+                    <li><a href="../../index.html" style="padding: 3px; padding-right: 10px"><img src="../../..//static/website/img/icons/logo_blanco.png"/></a></li>
+                    <li><a href="https://www.facebook.com/EmpleatronPeru" class="fa solo fa-facebook"></a></li>
+                    <li><a href="https://twitter.com/EmpleatronPeru" class="fa solo fa-twitter"></a></li>
+                    <li><a href="https://www.linkedin.com/company/empleatrón-peru" class="fa solo fa-linkedin"></a></li>
+                </ol>
+            </div>
+
+            <!-- Nav -->
+
+            <ul>
+            <li><a href="../../index.html"               > Inicio</a></li>
+            <li><a href="../../nosotros/index.html"       > Nosotros</a></li>
+            <li><a href="../../soluciones/index.html"           > Soluciones</a></li>
+            <li class="has-sub"><a href="../index.html"> Panorama Laboral</a>
+                <ul>
+                    <li><a href="index.html">Panorama de la demanda laboral peruana</a></li>
+                    <li><a href="../interrelacion-carreras.html">Interrelación entre carreras en el Perú</a></li>
+                </ul>
+            </li>
+            <li><a href="../../blog/index.html"  > Blog</a></li>
+            <li><a href="../../contacto/index.html"   > Contacto</a></li>
+            </ul>
+        </nav>
+
+                <!-- TEMPORALMENTE FUERA DE SERVICIO
+                <span class="span_sign">
+                    <a href="" id="login">Ingresa</a>
+                    <a href="" class="button medium fa ">Crear cuenta</a>
+                </span>
+                -->
+
+    </div>
+    <!-- Banner -->
+    
+    
+</div>
+
+
+<div id="treemap-wrapper" class="wrapper content-wrapper">
+    <div class="center-panel">
+        <div style="text-align: justify; padding: 0 5%">
+            <h1>Panorama de la demanda laboral peruana</h1>
+
+            <div class = "social-bar">
+            <ul>
+                <li>
+                <a href="index.html"
+                   class="twitter-share-button"
+                   data-via="EmpleatronPeru"
+                   data-hashtags="empleatron"
+                   style="padding: 0">Tweet</a>
+                </li>
+
+                <li>
+                <script type="IN/Share" data-url="/peru/panorama/demanda-laboral/" data-counter="right"></script>
+                </li>
+
+                <li>
+                <div class="fb-like" data-href="/peru/panorama/demanda-laboral/"
+                     data-layout="button_count"
+                     data-action="like"
+                     data-show-faces="false"
+                     data-share="true"></div>
+                </li>
+            </ul>
+            </div>
+
+            <div style = "clear:both">
+            <p>Entre marzo y agosto del 2014, nuestros algoritmos identificaron un <b>total de 70 mil
+                avisos de trabajo</b>, en diversas fuentes de la internet. Dado que la mayoría de avisos
+                mencionan una o más carreras técnicas o universitarias, la suma de todos los valores
+                abajo presentados dará un valor mayor a 70 mil.</p>
+            <p>Haga click dentro o fuera de cada bloque para acercar o alejar la vista.</p>
+            </div>
+        </div>
+    </div>
+</div>
+  	
+<script>
+
+var w = 1350 - 80,
+    h = 750 - 180,
+    x = d3.scale.linear().range([0, w]),
+    y = d3.scale.linear().range([0, h]),
+    color = d3.scale.category20c(),
+    root,
+    node;
+
+var treemap = d3.layout.treemap()
+    .round(false)
+    .size([w, h])
+    .sticky(true)
+    .value(function(d) { return d.size; });
+
+var svg = d3.select("body").select("#treemap-wrapper").append("div")
+    .attr("class", "chart")
+    .style("width", w + "px")
+    .style("height", h + "px")
+  .append("svg:svg")
+    .attr("width", w)
+    .attr("height", h)
+  .append("svg:g")
+    .attr("transform", "translate(.5,.5)");
+
+d3.json("/static/website/js/carreras.json", function(data) {
+  node = root = data;
+
+  console.log(data);
+
+  var nodes = treemap.nodes(root)
+      .filter(function(d) { return !d.children; });
+
+  var precell = svg.selectAll("g")
+      .data(nodes)
+    .enter().append("svg:g")
+      .attr("class", "cell")
+      .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
+  var cell = precell.on("click", function(d) { return zoom(node == d.parent ? root : d.parent); });
+
+  cell.append("svg:rect")
+      .attr("width", function(d) { return d.dx - 1; })
+      .attr("height", function(d) { return d.dy - 1; })
+      .style("fill", function(d) { return color(d.parent.name); });
+
+  cell.append("svg:text")
+      .attr("x", function(d) { return d.dx / 2; })
+      .attr("y", function(d) { return d.dy / 2; })
+      .attr("dy", ".35em")
+      .attr("text-anchor", "middle")
+      .text(function(d) { 
+      	var name = d.name;
+        if (name.indexOf('Higiene') != -1)
+            name = 'Ing. Higiene y SI';
+        if (name.indexOf('Telecomunicaciones') != -1)
+            name = 'Ing. Telecom.';
+      	if(d.size >= 5000)
+      		name = name + " ("+d.size+")";
+	      return name;
+      })
+      .style("opacity", function(d) { d.w = this.getComputedTextLength(); return d.dx > d.w ? 1 : 0; })
+      .style("font-size",function(d) {
+				var fs = Math.max(Math.min(Math.round(d.dy-3), Math.min(22,Math.round((d.dx-1) / d.name.length)) ), 12);
+      	return fs+"px";
+      });
+
+  precell.append("svg:title")
+        .text(function(d){
+            return d.name + " (" + d.size + ")";
+        });
+
+
+  d3.select(window).on("click", function() { zoom(root); });
+
+});
+
+function size(d) {
+  return d.size;
+}
+
+function zoom(d) {
+  console.log(d);
+
+  var kx = w / d.dx, ky = h / d.dy;
+  x.domain([d.x, d.x + d.dx]);
+  y.domain([d.y, d.y + d.dy]);
+
+  var t = svg.selectAll("g.cell").transition()
+      .duration(d3.event.altKey ? 7500 : 750)
+      .attr("transform", function(d) { return "translate(" + x(d.x) + "," + y(d.y) + ")"; });
+
+  t.select("rect")
+      .attr("width", function(d) { return kx * d.dx - 1; })
+      .attr("height", function(d) { return ky * d.dy - 1; });
+
+  t.select("text")
+      .attr("x", function(d) { return kx * d.dx / 2; })
+      .attr("y", function(d) { return ky * d.dy / 2; })
+      .style("opacity", function(d) { return kx * d.dx > d.w ? 1 : 0; })
+	    .style("font-size",function(d) {
+				var fs = Math.max(Math.min(Math.round(ky*d.dy-3), Math.min(22,Math.round((kx*d.dx-1) / d.name.length)) ), 12);
+      	return fs+"px";
+      });
+
+  node = d;
+  d3.event.stopPropagation();
+}
+
+</script>
+
+
+
+<!-- Footer -->
+<div id = "footer-wrapper" class="wrapper">
+	<footer>
+		<span style="padding-top: 20px; float: left">&copy; Empleatrón</span>
+        <!-- Menu -->
+        <ul class="social-icons white-icon">
+            <li><a>Contactenos:</a></li>
+            <li><a href="https://www.facebook.com/EmpleatronPeru" class="fa solo fa-facebook"></a></li>
+            <li><a href="https://twitter.com/EmpleatronPeru" class="fa solo fa-twitter"></a></li>
+            <li><a href="https://www.linkedin.com/company/empleatrón-peru" class="fa solo fa-linkedin"></a></li>
+        </ul>
+
+        <span style="text-align: right;padding-bottom: 20px; float: right;clear: both" >e-mail:  contacto@empleatron.com</span>
+	</footer>
+</div>
+</body>
+
+<!-- Mirrored from 127.0.0.1:8000/peru/panorama/demanda-laboral/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 03 Sep 2016 17:15:34 GMT -->
+</html>

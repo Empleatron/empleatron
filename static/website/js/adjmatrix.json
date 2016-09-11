@@ -1,0 +1,10068 @@
+[
+  {
+    "imports": [
+      {
+        "name": "Publicidad", 
+        "weight": 204.0
+      }, 
+      {
+        "name": "Ing. Higiene y Seguridad Industrial", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 5025.0
+      }, 
+      {
+        "name": "Traducción e Interpretación Profesional", 
+        "weight": 10.0
+      }, 
+      {
+        "name": "Ing. Ambiental", 
+        "weight": 18.0
+      }, 
+      {
+        "name": "Ing. Civil", 
+        "weight": 205.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 824.0
+      }, 
+      {
+        "name": "Ing. de Petróleo", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 461.0
+      }, 
+      {
+        "name": "Odontología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Industrias Alimentarias", 
+        "weight": 151.0
+      }, 
+      {
+        "name": "Ing. Geológica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Geografía", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Enfermería", 
+        "weight": 49.0
+      }, 
+      {
+        "name": "Artes Escénicas", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Pintura", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Zootecnia", 
+        "weight": 39.0
+      }, 
+      {
+        "name": "Nutrición", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Ing. de Telecomunicaciones", 
+        "weight": 33.0
+      }, 
+      {
+        "name": "Ing. Petroquímica", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Mecánica Eléctrica", 
+        "weight": 40.0
+      }, 
+      {
+        "name": "Ing. Forestal", 
+        "weight": 38.0
+      }, 
+      {
+        "name": "Tecnología Médica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Matemática", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Diseño de Modas", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Mecatrónica", 
+        "weight": 10.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 168.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 3528.0
+      }, 
+      {
+        "name": "Ing. Sanitaria", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Finanzas", 
+        "weight": 773.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 7023.0
+      }, 
+      {
+        "name": "Antropología", 
+        "weight": 18.0
+      }, 
+      {
+        "name": "Química", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Contabilidad", 
+        "weight": 4409.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 27.0
+      }, 
+      {
+        "name": "Ing. Estadística", 
+        "weight": 171.0
+      }, 
+      {
+        "name": "Historia", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. Pesquera", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Psicología", 
+        "weight": 578.0
+      }, 
+      {
+        "name": "Ing. de Minas", 
+        "weight": 24.0
+      }, 
+      {
+        "name": "Farmacia y Bioquímica", 
+        "weight": 23.0
+      }, 
+      {
+        "name": "Ing. Agrícola", 
+        "weight": 17.0
+      }, 
+      {
+        "name": "Bibliotecología", 
+        "weight": 17.0
+      }, 
+      {
+        "name": "Arquitectura", 
+        "weight": 59.0
+      }, 
+      {
+        "name": "Derecho", 
+        "weight": 325.0
+      }, 
+      {
+        "name": "Agronomía", 
+        "weight": 186.0
+      }, 
+      {
+        "name": "Diseño Gráfico", 
+        "weight": 12.0
+      }, 
+      {
+        "name": "Ing. Electrónica", 
+        "weight": 61.0
+      }, 
+      {
+        "name": "Hotelería y Turismo", 
+        "weight": 483.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 2482.0
+      }, 
+      {
+        "name": "Ciencia de la Computación", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Medicina Humana", 
+        "weight": 38.0
+      }, 
+      {
+        "name": "Filosofía", 
+        "weight": 12.0
+      }, 
+      {
+        "name": "Ing. Textil", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Sociología", 
+        "weight": 14.0
+      }, 
+      {
+        "name": "Ing. Metalúrgica", 
+        "weight": 22.0
+      }, 
+      {
+        "name": "Comunicación Audiovisual", 
+        "weight": 10.0
+      }, 
+      {
+        "name": "Ing. Informática", 
+        "weight": 432.0
+      }, 
+      {
+        "name": "Física", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Eléctrica", 
+        "weight": 49.0
+      }, 
+      {
+        "name": "Biología", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Periodismo", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Trabajo Social", 
+        "weight": 80.0
+      }, 
+      {
+        "name": "Ing. Naval", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Negocios Internacionales", 
+        "weight": 454.0
+      }, 
+      {
+        "name": "Diseño de Interiores", 
+        "weight": 15.0
+      }, 
+      {
+        "name": "Ing. Mecánica", 
+        "weight": 162.0
+      }, 
+      {
+        "name": "Obstetricia", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. Económica", 
+        "weight": 240.0
+      }, 
+      {
+        "name": "Escultura", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Literatura y Lingüística", 
+        "weight": 13.0
+      }, 
+      {
+        "name": "Comunicación Organizacional", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 1395.0
+      }
+    ], 
+    "name": "Administración", 
+    "size": 14095.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Publicidad", 
+        "weight": 335.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 692.0
+      }, 
+      {
+        "name": "Traducción e Interpretación Profesional", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Ing. Ambiental", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Civil", 
+        "weight": 19.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 672.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 50.0
+      }, 
+      {
+        "name": "Odontología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Industrias Alimentarias", 
+        "weight": 14.0
+      }, 
+      {
+        "name": "Ing. Geológica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Enfermería", 
+        "weight": 10.0
+      }, 
+      {
+        "name": "Pintura", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Zootecnia", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Nutrición", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. de Telecomunicaciones", 
+        "weight": 14.0
+      }, 
+      {
+        "name": "Ing. Mecánica Eléctrica", 
+        "weight": 9.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 2482.0
+      }, 
+      {
+        "name": "Matemática", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Diseño de Modas", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Mecatrónica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 54.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 513.0
+      }, 
+      {
+        "name": "Finanzas", 
+        "weight": 145.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 2060.0
+      }, 
+      {
+        "name": "Antropología", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Contabilidad", 
+        "weight": 376.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Estadística", 
+        "weight": 12.0
+      }, 
+      {
+        "name": "Psicología", 
+        "weight": 70.0
+      }, 
+      {
+        "name": "Ing. de Minas", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Farmacia y Bioquímica", 
+        "weight": 10.0
+      }, 
+      {
+        "name": "Ing. Agrícola", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Bibliotecología", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Arquitectura", 
+        "weight": 18.0
+      }, 
+      {
+        "name": "Derecho", 
+        "weight": 39.0
+      }, 
+      {
+        "name": "Agronomía", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Diseño Gráfico", 
+        "weight": 27.0
+      }, 
+      {
+        "name": "Ing. Electrónica", 
+        "weight": 11.0
+      }, 
+      {
+        "name": "Hotelería y Turismo", 
+        "weight": 136.0
+      }, 
+      {
+        "name": "Medicina Humana", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Filosofía", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Textil", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Sociología", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Ing. Metalúrgica", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Comunicación Audiovisual", 
+        "weight": 10.0
+      }, 
+      {
+        "name": "Ing. Informática", 
+        "weight": 85.0
+      }, 
+      {
+        "name": "Ing. Eléctrica", 
+        "weight": 10.0
+      }, 
+      {
+        "name": "Periodismo", 
+        "weight": 12.0
+      }, 
+      {
+        "name": "Trabajo Social", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Negocios Internacionales", 
+        "weight": 144.0
+      }, 
+      {
+        "name": "Diseño de Interiores", 
+        "weight": 10.0
+      }, 
+      {
+        "name": "Ing. Mecánica", 
+        "weight": 24.0
+      }, 
+      {
+        "name": "Ing. Económica", 
+        "weight": 49.0
+      }, 
+      {
+        "name": "Literatura y Lingüística", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Comunicación Organizacional", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 250.0
+      }
+    ], 
+    "name": "Marketing", 
+    "size": 3591.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Publicidad", 
+        "weight": 13.0
+      }, 
+      {
+        "name": "Ing. Higiene y Seguridad Industrial", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 91.0
+      }, 
+      {
+        "name": "Traducción e Interpretación Profesional", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Ing. Civil", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 209.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 72.0
+      }, 
+      {
+        "name": "Industrias Alimentarias", 
+        "weight": 19.0
+      }, 
+      {
+        "name": "Enfermería", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Nutrición", 
+        "weight": 9.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 483.0
+      }, 
+      {
+        "name": "Diseño de Modas", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 11.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 113.0
+      }, 
+      {
+        "name": "Ing. Sanitaria", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Finanzas", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 661.0
+      }, 
+      {
+        "name": "Contabilidad", 
+        "weight": 124.0
+      }, 
+      {
+        "name": "Psicología", 
+        "weight": 15.0
+      }, 
+      {
+        "name": "Arquitectura", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Derecho", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Diseño Gráfico", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 136.0
+      }, 
+      {
+        "name": "Medicina Humana", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Arqueología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Informática", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Ing. Eléctrica", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Biología", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Periodismo", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Trabajo Social", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Microbiología y Parasitología", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Negocios Internacionales", 
+        "weight": 20.0
+      }, 
+      {
+        "name": "Diseño de Interiores", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Mecánica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Hotelería y Turismo", 
+        "weight": 262.0
+      }
+    ], 
+    "name": "Hotelería y Turismo", 
+    "size": 1159.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Publicidad", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 253.0
+      }, 
+      {
+        "name": "Traducción e Interpretación Profesional", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Civil", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 22.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Industrias Alimentarias", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Enfermería", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Zootecnia", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Ing. de Telecomunicaciones", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Mecánica Eléctrica", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. Forestal", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 454.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 96.0
+      }, 
+      {
+        "name": "Finanzas", 
+        "weight": 25.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 408.0
+      }, 
+      {
+        "name": "Contabilidad", 
+        "weight": 93.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Estadística", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Pesquera", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Psicología", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. de Minas", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. Agrícola", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Arquitectura", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Derecho", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Agronomía", 
+        "weight": 11.0
+      }, 
+      {
+        "name": "Diseño Gráfico", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Electrónica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Hotelería y Turismo", 
+        "weight": 20.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 144.0
+      }, 
+      {
+        "name": "Ing. Textil", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Sociología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Informática", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. Eléctrica", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Periodismo", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Naval", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Mecánica", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Ing. Económica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Negocios Internacionales", 
+        "weight": 88.0
+      }
+    ], 
+    "name": "Negocios Internacionales", 
+    "size": 767.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Publicidad", 
+        "weight": 15.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 1765.0
+      }, 
+      {
+        "name": "Ing. Ambiental", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. Civil", 
+        "weight": 12.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 225.0
+      }, 
+      {
+        "name": "Ing. de Petróleo", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 244.0
+      }, 
+      {
+        "name": "Industrias Alimentarias", 
+        "weight": 115.0
+      }, 
+      {
+        "name": "Enfermería", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Zootecnia", 
+        "weight": 39.0
+      }, 
+      {
+        "name": "Ing. de Telecomunicaciones", 
+        "weight": 10.0
+      }, 
+      {
+        "name": "Ing. Forestal", 
+        "weight": 37.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 4409.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 22.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 2506.0
+      }, 
+      {
+        "name": "Finanzas", 
+        "weight": 690.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 3286.0
+      }, 
+      {
+        "name": "Antropología", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Estadística", 
+        "weight": 127.0
+      }, 
+      {
+        "name": "Historia", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Pesquera", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Psicología", 
+        "weight": 79.0
+      }, 
+      {
+        "name": "Ing. de Minas", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Farmacia y Bioquímica", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Agrícola", 
+        "weight": 10.0
+      }, 
+      {
+        "name": "Bibliotecología", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Arquitectura", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Derecho", 
+        "weight": 149.0
+      }, 
+      {
+        "name": "Agronomía", 
+        "weight": 164.0
+      }, 
+      {
+        "name": "Diseño Gráfico", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. Electrónica", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Hotelería y Turismo", 
+        "weight": 124.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 376.0
+      }, 
+      {
+        "name": "Medicina Humana", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Filosofía", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Textil", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Sociología", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Ing. Informática", 
+        "weight": 253.0
+      }, 
+      {
+        "name": "Ing. Eléctrica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Trabajo Social", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Negocios Internacionales", 
+        "weight": 93.0
+      }, 
+      {
+        "name": "Ing. Mecánica", 
+        "weight": 11.0
+      }, 
+      {
+        "name": "Ing. Económica", 
+        "weight": 169.0
+      }, 
+      {
+        "name": "Contabilidad", 
+        "weight": 1945.0
+      }
+    ], 
+    "name": "Contabilidad", 
+    "size": 7465.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Publicidad", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 1918.0
+      }, 
+      {
+        "name": "Ing. Ambiental", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Civil", 
+        "weight": 35.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 201.0
+      }, 
+      {
+        "name": "Ing. de Petróleo", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 232.0
+      }, 
+      {
+        "name": "Industrias Alimentarias", 
+        "weight": 114.0
+      }, 
+      {
+        "name": "Ing. Geológica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Geografía", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Enfermería", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Zootecnia", 
+        "weight": 40.0
+      }, 
+      {
+        "name": "Ing. de Telecomunicaciones", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Ing. Mecánica Eléctrica", 
+        "weight": 12.0
+      }, 
+      {
+        "name": "Ing. Forestal", 
+        "weight": 38.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 3528.0
+      }, 
+      {
+        "name": "Matemática", 
+        "weight": 11.0
+      }, 
+      {
+        "name": "Ing. Mecatrónica", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 20.0
+      }, 
+      {
+        "name": "Ing. Sanitaria", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Finanzas", 
+        "weight": 470.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 1844.0
+      }, 
+      {
+        "name": "Antropología", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Contabilidad", 
+        "weight": 2506.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Ing. Estadística", 
+        "weight": 171.0
+      }, 
+      {
+        "name": "Historia", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Pesquera", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Psicología", 
+        "weight": 59.0
+      }, 
+      {
+        "name": "Ing. de Minas", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Agrícola", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Bibliotecología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Arquitectura", 
+        "weight": 13.0
+      }, 
+      {
+        "name": "Derecho", 
+        "weight": 163.0
+      }, 
+      {
+        "name": "Agronomía", 
+        "weight": 165.0
+      }, 
+      {
+        "name": "Diseño Gráfico", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Electrónica", 
+        "weight": 11.0
+      }, 
+      {
+        "name": "Hotelería y Turismo", 
+        "weight": 113.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 513.0
+      }, 
+      {
+        "name": "Ciencia de la Computación", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Medicina Humana", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Filosofía", 
+        "weight": 12.0
+      }, 
+      {
+        "name": "Ing. Textil", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Sociología", 
+        "weight": 15.0
+      }, 
+      {
+        "name": "Ing. Metalúrgica", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Informática", 
+        "weight": 222.0
+      }, 
+      {
+        "name": "Física", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Ing. Eléctrica", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Biología", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Periodismo", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Trabajo Social", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Microbiología y Parasitología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Negocios Internacionales", 
+        "weight": 96.0
+      }, 
+      {
+        "name": "Diseño de Interiores", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Mecánica", 
+        "weight": 19.0
+      }, 
+      {
+        "name": "Ing. Económica", 
+        "weight": 345.0
+      }, 
+      {
+        "name": "Literatura y Lingüística", 
+        "weight": 12.0
+      }, 
+      {
+        "name": "Comunicación Organizacional", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 45.0
+      }
+    ], 
+    "name": "Economía", 
+    "size": 3853.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Ing. Industrial", 
+        "weight": 312.0
+      }, 
+      {
+        "name": "Ing. Civil", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 12.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 12.0
+      }, 
+      {
+        "name": "Enfermería", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Mecánica Eléctrica", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 773.0
+      }, 
+      {
+        "name": "Matemática", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 470.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 582.0
+      }, 
+      {
+        "name": "Antropología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Contabilidad", 
+        "weight": 690.0
+      }, 
+      {
+        "name": "Ing. Estadística", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Psicología", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Agrícola", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Derecho", 
+        "weight": 28.0
+      }, 
+      {
+        "name": "Agronomía", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Hotelería y Turismo", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 145.0
+      }, 
+      {
+        "name": "Medicina Humana", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Textil", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Sociología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Informática", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Ing. Eléctrica", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Trabajo Social", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Negocios Internacionales", 
+        "weight": 25.0
+      }, 
+      {
+        "name": "Ing. Mecánica", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Ing. Económica", 
+        "weight": 28.0
+      }, 
+      {
+        "name": "Escultura", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Finanzas", 
+        "weight": 266.0
+      }
+    ], 
+    "name": "Finanzas", 
+    "size": 1284.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Publicidad", 
+        "weight": 302.0
+      }, 
+      {
+        "name": "Ing. Higiene y Seguridad Industrial", 
+        "weight": 79.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 2464.0
+      }, 
+      {
+        "name": "Traducción e Interpretación Profesional", 
+        "weight": 28.0
+      }, 
+      {
+        "name": "Ing. Ambiental", 
+        "weight": 75.0
+      }, 
+      {
+        "name": "Ing. Civil", 
+        "weight": 590.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 758.0
+      }, 
+      {
+        "name": "Ing. de Petróleo", 
+        "weight": 11.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 1596.0
+      }, 
+      {
+        "name": "Odontología", 
+        "weight": 13.0
+      }, 
+      {
+        "name": "Industrias Alimentarias", 
+        "weight": 227.0
+      }, 
+      {
+        "name": "Ing. Geológica", 
+        "weight": 28.0
+      }, 
+      {
+        "name": "Geografía", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Diseño Industrial", 
+        "weight": 12.0
+      }, 
+      {
+        "name": "Enfermería", 
+        "weight": 356.0
+      }, 
+      {
+        "name": "Artes Escénicas", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Pintura", 
+        "weight": 14.0
+      }, 
+      {
+        "name": "Zootecnia", 
+        "weight": 48.0
+      }, 
+      {
+        "name": "Nutrición", 
+        "weight": 23.0
+      }, 
+      {
+        "name": "Veterinaria", 
+        "weight": 12.0
+      }, 
+      {
+        "name": "Ing. de Telecomunicaciones", 
+        "weight": 307.0
+      }, 
+      {
+        "name": "Ing. Petroquímica", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Ing. Mecánica Eléctrica", 
+        "weight": 194.0
+      }, 
+      {
+        "name": "Ing. Forestal", 
+        "weight": 35.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 7023.0
+      }, 
+      {
+        "name": "Tecnología Médica", 
+        "weight": 81.0
+      }, 
+      {
+        "name": "Matemática", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Diseño de Modas", 
+        "weight": 36.0
+      }, 
+      {
+        "name": "Ing. Mecatrónica", 
+        "weight": 96.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 242.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 1844.0
+      }, 
+      {
+        "name": "Meteorología", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Sanitaria", 
+        "weight": 47.0
+      }, 
+      {
+        "name": "Finanzas", 
+        "weight": 582.0
+      }, 
+      {
+        "name": "Antropología", 
+        "weight": 22.0
+      }, 
+      {
+        "name": "Química", 
+        "weight": 22.0
+      }, 
+      {
+        "name": "Contabilidad", 
+        "weight": 3286.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 188.0
+      }, 
+      {
+        "name": "Ing. Estadística", 
+        "weight": 147.0
+      }, 
+      {
+        "name": "Historia", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Ing. Pesquera", 
+        "weight": 18.0
+      }, 
+      {
+        "name": "Psicología", 
+        "weight": 259.0
+      }, 
+      {
+        "name": "Ing. de Minas", 
+        "weight": 66.0
+      }, 
+      {
+        "name": "Farmacia y Bioquímica", 
+        "weight": 346.0
+      }, 
+      {
+        "name": "Ing. Agrícola", 
+        "weight": 68.0
+      }, 
+      {
+        "name": "Bibliotecología", 
+        "weight": 31.0
+      }, 
+      {
+        "name": "Arquitectura", 
+        "weight": 217.0
+      }, 
+      {
+        "name": "Derecho", 
+        "weight": 163.0
+      }, 
+      {
+        "name": "Agronomía", 
+        "weight": 237.0
+      }, 
+      {
+        "name": "Diseño Gráfico", 
+        "weight": 262.0
+      }, 
+      {
+        "name": "Ing. Electrónica", 
+        "weight": 910.0
+      }, 
+      {
+        "name": "Hotelería y Turismo", 
+        "weight": 661.0
+      }, 
+      {
+        "name": "Ing. Mecánica de Fluidos", 
+        "weight": 23.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 2060.0
+      }, 
+      {
+        "name": "Ciencia de la Computación", 
+        "weight": 26.0
+      }, 
+      {
+        "name": "Medicina Humana", 
+        "weight": 98.0
+      }, 
+      {
+        "name": "Filosofía", 
+        "weight": 20.0
+      }, 
+      {
+        "name": "Ing. Textil", 
+        "weight": 33.0
+      }, 
+      {
+        "name": "Sociología", 
+        "weight": 11.0
+      }, 
+      {
+        "name": "Arqueología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Metalúrgica", 
+        "weight": 102.0
+      }, 
+      {
+        "name": "Comunicación Audiovisual", 
+        "weight": 34.0
+      }, 
+      {
+        "name": "Ing. Informática", 
+        "weight": 1988.0
+      }, 
+      {
+        "name": "Física", 
+        "weight": 28.0
+      }, 
+      {
+        "name": "Ing. Eléctrica", 
+        "weight": 957.0
+      }, 
+      {
+        "name": "Biología", 
+        "weight": 30.0
+      }, 
+      {
+        "name": "Periodismo", 
+        "weight": 19.0
+      }, 
+      {
+        "name": "Trabajo Social", 
+        "weight": 40.0
+      }, 
+      {
+        "name": "Microbiología y Parasitología", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Ing. Naval", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Negocios Internacionales", 
+        "weight": 408.0
+      }, 
+      {
+        "name": "Diseño de Interiores", 
+        "weight": 82.0
+      }, 
+      {
+        "name": "Ing. Mecánica", 
+        "weight": 939.0
+      }, 
+      {
+        "name": "Obstetricia", 
+        "weight": 16.0
+      }, 
+      {
+        "name": "Ing. Económica", 
+        "weight": 193.0
+      }, 
+      {
+        "name": "Escultura", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Literatura y Lingüística", 
+        "weight": 20.0
+      }, 
+      {
+        "name": "Comunicación Organizacional", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 11613.0
+      }
+    ], 
+    "name": "Carreras Técnicas", 
+    "size": 27232.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Publicidad", 
+        "weight": 36.0
+      }, 
+      {
+        "name": "Ing. Higiene y Seguridad Industrial", 
+        "weight": 127.0
+      }, 
+      {
+        "name": "Ing. Ambiental", 
+        "weight": 169.0
+      }, 
+      {
+        "name": "Ing. Civil", 
+        "weight": 368.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 186.0
+      }, 
+      {
+        "name": "Ing. de Petróleo", 
+        "weight": 16.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 580.0
+      }, 
+      {
+        "name": "Odontología", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Industrias Alimentarias", 
+        "weight": 109.0
+      }, 
+      {
+        "name": "Ing. Geológica", 
+        "weight": 13.0
+      }, 
+      {
+        "name": "Geografía", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Enfermería", 
+        "weight": 15.0
+      }, 
+      {
+        "name": "Pintura", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Zootecnia", 
+        "weight": 18.0
+      }, 
+      {
+        "name": "Nutrición", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Veterinaria", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. de Telecomunicaciones", 
+        "weight": 40.0
+      }, 
+      {
+        "name": "Ing. Petroquímica", 
+        "weight": 15.0
+      }, 
+      {
+        "name": "Ing. Mecánica Eléctrica", 
+        "weight": 148.0
+      }, 
+      {
+        "name": "Ing. Forestal", 
+        "weight": 17.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 5025.0
+      }, 
+      {
+        "name": "Tecnología Médica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Matemática", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. Mecatrónica", 
+        "weight": 49.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 42.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 1918.0
+      }, 
+      {
+        "name": "Ing. Sanitaria", 
+        "weight": 41.0
+      }, 
+      {
+        "name": "Finanzas", 
+        "weight": 312.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 2464.0
+      }, 
+      {
+        "name": "Antropología", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Química", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Contabilidad", 
+        "weight": 1765.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 235.0
+      }, 
+      {
+        "name": "Ing. Estadística", 
+        "weight": 94.0
+      }, 
+      {
+        "name": "Historia", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Pesquera", 
+        "weight": 24.0
+      }, 
+      {
+        "name": "Psicología", 
+        "weight": 290.0
+      }, 
+      {
+        "name": "Ing. de Minas", 
+        "weight": 94.0
+      }, 
+      {
+        "name": "Farmacia y Bioquímica", 
+        "weight": 25.0
+      }, 
+      {
+        "name": "Ing. Agrícola", 
+        "weight": 33.0
+      }, 
+      {
+        "name": "Bibliotecología", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Arquitectura", 
+        "weight": 80.0
+      }, 
+      {
+        "name": "Derecho", 
+        "weight": 164.0
+      }, 
+      {
+        "name": "Agronomía", 
+        "weight": 91.0
+      }, 
+      {
+        "name": "Diseño Gráfico", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Electrónica", 
+        "weight": 219.0
+      }, 
+      {
+        "name": "Hotelería y Turismo", 
+        "weight": 91.0
+      }, 
+      {
+        "name": "Ing. Mecánica de Fluidos", 
+        "weight": 21.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 692.0
+      }, 
+      {
+        "name": "Ciencia de la Computación", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Medicina Humana", 
+        "weight": 67.0
+      }, 
+      {
+        "name": "Filosofía", 
+        "weight": 12.0
+      }, 
+      {
+        "name": "Ing. Textil", 
+        "weight": 48.0
+      }, 
+      {
+        "name": "Sociología", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Ing. Metalúrgica", 
+        "weight": 66.0
+      }, 
+      {
+        "name": "Comunicación Audiovisual", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. Informática", 
+        "weight": 231.0
+      }, 
+      {
+        "name": "Física", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Eléctrica", 
+        "weight": 272.0
+      }, 
+      {
+        "name": "Biología", 
+        "weight": 10.0
+      }, 
+      {
+        "name": "Trabajo Social", 
+        "weight": 9.0
+      }, 
+      {
+        "name": "Microbiología y Parasitología", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Naval", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Negocios Internacionales", 
+        "weight": 253.0
+      }, 
+      {
+        "name": "Diseño de Interiores", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. Mecánica", 
+        "weight": 612.0
+      }, 
+      {
+        "name": "Obstetricia", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Económica", 
+        "weight": 134.0
+      }, 
+      {
+        "name": "Literatura y Lingüística", 
+        "weight": 12.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 549.0
+      }
+    ], 
+    "name": "Ing. Industrial", 
+    "size": 7445.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Publicidad", 
+        "weight": 9.0
+      }, 
+      {
+        "name": "Ing. Higiene y Seguridad Industrial", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 231.0
+      }, 
+      {
+        "name": "Ing. Civil", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 76.0
+      }, 
+      {
+        "name": "Ing. de Petróleo", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 1592.0
+      }, 
+      {
+        "name": "Industrias Alimentarias", 
+        "weight": 114.0
+      }, 
+      {
+        "name": "Ing. Geológica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Zootecnia", 
+        "weight": 28.0
+      }, 
+      {
+        "name": "Ing. de Telecomunicaciones", 
+        "weight": 151.0
+      }, 
+      {
+        "name": "Ing. Petroquímica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Mecánica Eléctrica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Forestal", 
+        "weight": 28.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 432.0
+      }, 
+      {
+        "name": "Tecnología Médica", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Matemática", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 21.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 222.0
+      }, 
+      {
+        "name": "Finanzas", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 1988.0
+      }, 
+      {
+        "name": "Antropología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Contabilidad", 
+        "weight": 253.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Estadística", 
+        "weight": 163.0
+      }, 
+      {
+        "name": "Psicología", 
+        "weight": 17.0
+      }, 
+      {
+        "name": "Farmacia y Bioquímica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Agrícola", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Bibliotecología", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Arquitectura", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Derecho", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Agronomía", 
+        "weight": 142.0
+      }, 
+      {
+        "name": "Diseño Gráfico", 
+        "weight": 13.0
+      }, 
+      {
+        "name": "Ing. Electrónica", 
+        "weight": 300.0
+      }, 
+      {
+        "name": "Hotelería y Turismo", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 85.0
+      }, 
+      {
+        "name": "Ciencia de la Computación", 
+        "weight": 24.0
+      }, 
+      {
+        "name": "Sociología", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Comunicación Audiovisual", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Física", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Ing. Eléctrica", 
+        "weight": 14.0
+      }, 
+      {
+        "name": "Periodismo", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Trabajo Social", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Negocios Internacionales", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Diseño de Interiores", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Mecánica", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Económica", 
+        "weight": 53.0
+      }, 
+      {
+        "name": "Ing. Informática", 
+        "weight": 207.0
+      }
+    ], 
+    "name": "Ing. Informática", 
+    "size": 2901.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Publicidad", 
+        "weight": 10.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 580.0
+      }, 
+      {
+        "name": "Traducción e Interpretación Profesional", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Ambiental", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Civil", 
+        "weight": 13.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 128.0
+      }, 
+      {
+        "name": "Ing. de Petróleo", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Industrias Alimentarias", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Geológica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Zootecnia", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Nutrición", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. de Telecomunicaciones", 
+        "weight": 235.0
+      }, 
+      {
+        "name": "Ing. Petroquímica", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Mecánica Eléctrica", 
+        "weight": 9.0
+      }, 
+      {
+        "name": "Ing. Forestal", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 461.0
+      }, 
+      {
+        "name": "Tecnología Médica", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Matemática", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Ing. Mecatrónica", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 13.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 232.0
+      }, 
+      {
+        "name": "Finanzas", 
+        "weight": 12.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 1596.0
+      }, 
+      {
+        "name": "Contabilidad", 
+        "weight": 244.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Ing. Estadística", 
+        "weight": 71.0
+      }, 
+      {
+        "name": "Psicología", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Ing. de Minas", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Agrícola", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Bibliotecología", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Arquitectura", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Derecho", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Agronomía", 
+        "weight": 9.0
+      }, 
+      {
+        "name": "Diseño Gráfico", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Ing. Electrónica", 
+        "weight": 404.0
+      }, 
+      {
+        "name": "Hotelería y Turismo", 
+        "weight": 72.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 50.0
+      }, 
+      {
+        "name": "Ciencia de la Computación", 
+        "weight": 24.0
+      }, 
+      {
+        "name": "Medicina Humana", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Metalúrgica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Comunicación Audiovisual", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Informática", 
+        "weight": 1592.0
+      }, 
+      {
+        "name": "Física", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Ing. Eléctrica", 
+        "weight": 56.0
+      }, 
+      {
+        "name": "Periodismo", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Trabajo Social", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Microbiología y Parasitología", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Negocios Internacionales", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Ing. Mecánica", 
+        "weight": 29.0
+      }, 
+      {
+        "name": "Ing. Económica", 
+        "weight": 33.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 278.0
+      }
+    ], 
+    "name": "Ing. de Sistemas", 
+    "size": 2873.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Ing. Higiene y Seguridad Industrial", 
+        "weight": 23.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 612.0
+      }, 
+      {
+        "name": "Traducción e Interpretación Profesional", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Ambiental", 
+        "weight": 22.0
+      }, 
+      {
+        "name": "Ing. Civil", 
+        "weight": 181.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 10.0
+      }, 
+      {
+        "name": "Ing. de Petróleo", 
+        "weight": 17.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 29.0
+      }, 
+      {
+        "name": "Industrias Alimentarias", 
+        "weight": 9.0
+      }, 
+      {
+        "name": "Ing. Geológica", 
+        "weight": 9.0
+      }, 
+      {
+        "name": "Diseño Industrial", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Pintura", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Zootecnia", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. de Telecomunicaciones", 
+        "weight": 14.0
+      }, 
+      {
+        "name": "Ing. Petroquímica", 
+        "weight": 13.0
+      }, 
+      {
+        "name": "Ing. Mecánica Eléctrica", 
+        "weight": 158.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 162.0
+      }, 
+      {
+        "name": "Ing. Mecatrónica", 
+        "weight": 115.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 12.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 19.0
+      }, 
+      {
+        "name": "Ing. Sanitaria", 
+        "weight": 29.0
+      }, 
+      {
+        "name": "Finanzas", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 939.0
+      }, 
+      {
+        "name": "Química", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Contabilidad", 
+        "weight": 11.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 91.0
+      }, 
+      {
+        "name": "Ing. Estadística", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. Pesquera", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Ing. de Minas", 
+        "weight": 30.0
+      }, 
+      {
+        "name": "Ing. Agrícola", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Bibliotecología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Arquitectura", 
+        "weight": 29.0
+      }, 
+      {
+        "name": "Agronomía", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Ing. Electrónica", 
+        "weight": 236.0
+      }, 
+      {
+        "name": "Hotelería y Turismo", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Mecánica de Fluidos", 
+        "weight": 34.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 24.0
+      }, 
+      {
+        "name": "Medicina Humana", 
+        "weight": 9.0
+      }, 
+      {
+        "name": "Ing. Textil", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Ing. Metalúrgica", 
+        "weight": 45.0
+      }, 
+      {
+        "name": "Ing. Informática", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Eléctrica", 
+        "weight": 506.0
+      }, 
+      {
+        "name": "Periodismo", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Naval", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Negocios Internacionales", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Diseño de Interiores", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Económica", 
+        "weight": 11.0
+      }, 
+      {
+        "name": "Ing. Mecánica", 
+        "weight": 190.0
+      }
+    ], 
+    "name": "Ing. Mecánica", 
+    "size": 1731.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Ing. Higiene y Seguridad Industrial", 
+        "weight": 14.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 368.0
+      }, 
+      {
+        "name": "Ing. Ambiental", 
+        "weight": 37.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Ing. de Petróleo", 
+        "weight": 10.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 13.0
+      }, 
+      {
+        "name": "Industrias Alimentarias", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Geológica", 
+        "weight": 39.0
+      }, 
+      {
+        "name": "Geografía", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Enfermería", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Nutrición", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. de Telecomunicaciones", 
+        "weight": 18.0
+      }, 
+      {
+        "name": "Ing. Petroquímica", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Mecánica Eléctrica", 
+        "weight": 38.0
+      }, 
+      {
+        "name": "Ing. Forestal", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 205.0
+      }, 
+      {
+        "name": "Matemática", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Mecatrónica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 9.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 35.0
+      }, 
+      {
+        "name": "Ing. Sanitaria", 
+        "weight": 71.0
+      }, 
+      {
+        "name": "Finanzas", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 590.0
+      }, 
+      {
+        "name": "Contabilidad", 
+        "weight": 12.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 11.0
+      }, 
+      {
+        "name": "Ing. Pesquera", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. de Minas", 
+        "weight": 40.0
+      }, 
+      {
+        "name": "Farmacia y Bioquímica", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. Agrícola", 
+        "weight": 24.0
+      }, 
+      {
+        "name": "Arquitectura", 
+        "weight": 221.0
+      }, 
+      {
+        "name": "Derecho", 
+        "weight": 15.0
+      }, 
+      {
+        "name": "Agronomía", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Diseño Gráfico", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Electrónica", 
+        "weight": 38.0
+      }, 
+      {
+        "name": "Hotelería y Turismo", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Mecánica de Fluidos", 
+        "weight": 23.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 19.0
+      }, 
+      {
+        "name": "Medicina Humana", 
+        "weight": 14.0
+      }, 
+      {
+        "name": "Ing. Metalúrgica", 
+        "weight": 20.0
+      }, 
+      {
+        "name": "Ing. Informática", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Física", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Eléctrica", 
+        "weight": 92.0
+      }, 
+      {
+        "name": "Ing. Naval", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Negocios Internacionales", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Diseño de Interiores", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Mecánica", 
+        "weight": 181.0
+      }, 
+      {
+        "name": "Ing. Económica", 
+        "weight": 27.0
+      }, 
+      {
+        "name": "Ing. Civil", 
+        "weight": 608.0
+      }
+    ], 
+    "name": "Ing. Civil", 
+    "size": 1713.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Ing. Higiene y Seguridad Industrial", 
+        "weight": 25.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 272.0
+      }, 
+      {
+        "name": "Ing. Ambiental", 
+        "weight": 16.0
+      }, 
+      {
+        "name": "Ing. Civil", 
+        "weight": 92.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 9.0
+      }, 
+      {
+        "name": "Ing. de Petróleo", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 56.0
+      }, 
+      {
+        "name": "Industrias Alimentarias", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. Geológica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Pintura", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Ing. de Telecomunicaciones", 
+        "weight": 53.0
+      }, 
+      {
+        "name": "Ing. Petroquímica", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Ing. Mecánica Eléctrica", 
+        "weight": 183.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 49.0
+      }, 
+      {
+        "name": "Matemática", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Mecatrónica", 
+        "weight": 73.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Ing. Sanitaria", 
+        "weight": 14.0
+      }, 
+      {
+        "name": "Finanzas", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 957.0
+      }, 
+      {
+        "name": "Química", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Contabilidad", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 28.0
+      }, 
+      {
+        "name": "Ing. Pesquera", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. de Minas", 
+        "weight": 15.0
+      }, 
+      {
+        "name": "Ing. Agrícola", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Bibliotecología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Arquitectura", 
+        "weight": 16.0
+      }, 
+      {
+        "name": "Derecho", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Agronomía", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Diseño Gráfico", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Electrónica", 
+        "weight": 366.0
+      }, 
+      {
+        "name": "Hotelería y Turismo", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Mecánica de Fluidos", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 10.0
+      }, 
+      {
+        "name": "Ciencia de la Computación", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Medicina Humana", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Ing. Textil", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Metalúrgica", 
+        "weight": 13.0
+      }, 
+      {
+        "name": "Ing. Informática", 
+        "weight": 14.0
+      }, 
+      {
+        "name": "Periodismo", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Negocios Internacionales", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Mecánica", 
+        "weight": 506.0
+      }, 
+      {
+        "name": "Ing. Económica", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Ing. Eléctrica", 
+        "weight": 97.0
+      }
+    ], 
+    "name": "Ing. Eléctrica", 
+    "size": 1429.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Publicidad", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Higiene y Seguridad Industrial", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 219.0
+      }, 
+      {
+        "name": "Ing. Ambiental", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Ing. Civil", 
+        "weight": 38.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 39.0
+      }, 
+      {
+        "name": "Ing. de Petróleo", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 404.0
+      }, 
+      {
+        "name": "Industrias Alimentarias", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Diseño Industrial", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Ing. de Telecomunicaciones", 
+        "weight": 280.0
+      }, 
+      {
+        "name": "Ing. Petroquímica", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Mecánica Eléctrica", 
+        "weight": 94.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 61.0
+      }, 
+      {
+        "name": "Ing. Mecatrónica", 
+        "weight": 86.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 11.0
+      }, 
+      {
+        "name": "Meteorología", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Sanitaria", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 910.0
+      }, 
+      {
+        "name": "Química", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Contabilidad", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 11.0
+      }, 
+      {
+        "name": "Ing. Estadística", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Agrícola", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Arquitectura", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Ing. Mecánica de Fluidos", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 11.0
+      }, 
+      {
+        "name": "Ciencia de la Computación", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Medicina Humana", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Comunicación Audiovisual", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. Informática", 
+        "weight": 300.0
+      }, 
+      {
+        "name": "Física", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Eléctrica", 
+        "weight": 366.0
+      }, 
+      {
+        "name": "Ing. Naval", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Negocios Internacionales", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Mecánica", 
+        "weight": 236.0
+      }, 
+      {
+        "name": "Ing. Económica", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Ing. Electrónica", 
+        "weight": 67.0
+      }
+    ], 
+    "name": "Ing. Electrónica", 
+    "size": 1302.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Ing. Higiene y Seguridad Industrial", 
+        "weight": 38.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 235.0
+      }, 
+      {
+        "name": "Ing. Ambiental", 
+        "weight": 90.0
+      }, 
+      {
+        "name": "Ing. Civil", 
+        "weight": 11.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. de Petróleo", 
+        "weight": 10.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Odontología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Industrias Alimentarias", 
+        "weight": 73.0
+      }, 
+      {
+        "name": "Ing. Geológica", 
+        "weight": 12.0
+      }, 
+      {
+        "name": "Geografía", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Enfermería", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Pintura", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Nutrición", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. de Telecomunicaciones", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Petroquímica", 
+        "weight": 22.0
+      }, 
+      {
+        "name": "Ing. Mecánica Eléctrica", 
+        "weight": 21.0
+      }, 
+      {
+        "name": "Ing. Forestal", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 27.0
+      }, 
+      {
+        "name": "Tecnología Médica", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Matemática", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Mecatrónica", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Ing. Sanitaria", 
+        "weight": 13.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 188.0
+      }, 
+      {
+        "name": "Contabilidad", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Estadística", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Pesquera", 
+        "weight": 17.0
+      }, 
+      {
+        "name": "Ing. de Minas", 
+        "weight": 25.0
+      }, 
+      {
+        "name": "Farmacia y Bioquímica", 
+        "weight": 28.0
+      }, 
+      {
+        "name": "Ing. Agrícola", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Arquitectura", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Agronomía", 
+        "weight": 45.0
+      }, 
+      {
+        "name": "Ing. Electrónica", 
+        "weight": 11.0
+      }, 
+      {
+        "name": "Ing. Mecánica de Fluidos", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Medicina Humana", 
+        "weight": 17.0
+      }, 
+      {
+        "name": "Ing. Textil", 
+        "weight": 21.0
+      }, 
+      {
+        "name": "Ing. Metalúrgica", 
+        "weight": 55.0
+      }, 
+      {
+        "name": "Ing. Informática", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Física", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Ing. Eléctrica", 
+        "weight": 28.0
+      }, 
+      {
+        "name": "Biología", 
+        "weight": 33.0
+      }, 
+      {
+        "name": "Microbiología y Parasitología", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. Naval", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Negocios Internacionales", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Mecánica", 
+        "weight": 91.0
+      }, 
+      {
+        "name": "Obstetricia", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Económica", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 61.0
+      }
+    ], 
+    "name": "Ing. Química", 
+    "size": 552.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Publicidad", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 80.0
+      }, 
+      {
+        "name": "Ing. Ambiental", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Civil", 
+        "weight": 221.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. de Petróleo", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Geografía", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Pintura", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. de Telecomunicaciones", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Ing. Mecánica Eléctrica", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 59.0
+      }, 
+      {
+        "name": "Diseño de Modas", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Mecatrónica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 13.0
+      }, 
+      {
+        "name": "Ing. Sanitaria", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 217.0
+      }, 
+      {
+        "name": "Contabilidad", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Pesquera", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Psicología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Agrícola", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Derecho", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Agronomía", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Diseño Gráfico", 
+        "weight": 19.0
+      }, 
+      {
+        "name": "Ing. Electrónica", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Hotelería y Turismo", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Mecánica de Fluidos", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 18.0
+      }, 
+      {
+        "name": "Sociología", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Metalúrgica", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Ing. Informática", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Ing. Eléctrica", 
+        "weight": 16.0
+      }, 
+      {
+        "name": "Periodismo", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Negocios Internacionales", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Diseño de Interiores", 
+        "weight": 60.0
+      }, 
+      {
+        "name": "Ing. Mecánica", 
+        "weight": 29.0
+      }, 
+      {
+        "name": "Ing. Económica", 
+        "weight": 12.0
+      }, 
+      {
+        "name": "Arquitectura", 
+        "weight": 132.0
+      }
+    ], 
+    "name": "Arquitectura", 
+    "size": 520.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Publicidad", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 40.0
+      }, 
+      {
+        "name": "Ing. Civil", 
+        "weight": 18.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 33.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 235.0
+      }, 
+      {
+        "name": "Ing. Petroquímica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Mecánica Eléctrica", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 33.0
+      }, 
+      {
+        "name": "Matemática", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Diseño de Modas", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Mecatrónica", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 307.0
+      }, 
+      {
+        "name": "Contabilidad", 
+        "weight": 10.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Psicología", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Arquitectura", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Derecho", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Diseño Gráfico", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Electrónica", 
+        "weight": 280.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 14.0
+      }, 
+      {
+        "name": "Ciencia de la Computación", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Comunicación Audiovisual", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Informática", 
+        "weight": 151.0
+      }, 
+      {
+        "name": "Física", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Eléctrica", 
+        "weight": 53.0
+      }, 
+      {
+        "name": "Negocios Internacionales", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Mecánica", 
+        "weight": 14.0
+      }, 
+      {
+        "name": "Ing. Económica", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. de Telecomunicaciones", 
+        "weight": 19.0
+      }
+    ], 
+    "name": "Ing. de Telecomunicaciones", 
+    "size": 475.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Ing. Higiene y Seguridad Industrial", 
+        "weight": 10.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 148.0
+      }, 
+      {
+        "name": "Traducción e Interpretación Profesional", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Ambiental", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Ing. Civil", 
+        "weight": 38.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. de Petróleo", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 9.0
+      }, 
+      {
+        "name": "Industrias Alimentarias", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Geológica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. de Telecomunicaciones", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Ing. Petroquímica", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 40.0
+      }, 
+      {
+        "name": "Ing. Mecatrónica", 
+        "weight": 33.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 12.0
+      }, 
+      {
+        "name": "Ing. Sanitaria", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Finanzas", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 194.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 21.0
+      }, 
+      {
+        "name": "Ing. de Minas", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Ing. Agrícola", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Arquitectura", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Agronomía", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. Electrónica", 
+        "weight": 94.0
+      }, 
+      {
+        "name": "Ing. Mecánica de Fluidos", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 9.0
+      }, 
+      {
+        "name": "Medicina Humana", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Textil", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Ing. Metalúrgica", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Informática", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Eléctrica", 
+        "weight": 183.0
+      }, 
+      {
+        "name": "Periodismo", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Naval", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Negocios Internacionales", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. Mecánica", 
+        "weight": 158.0
+      }, 
+      {
+        "name": "Ing. Económica", 
+        "weight": 12.0
+      }, 
+      {
+        "name": "Ing. Mecánica Eléctrica", 
+        "weight": 23.0
+      }
+    ], 
+    "name": "Ing. Mecánica Eléctrica", 
+    "size": 422.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Ing. Higiene y Seguridad Industrial", 
+        "weight": 15.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 109.0
+      }, 
+      {
+        "name": "Ing. Ambiental", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Civil", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Geológica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Zootecnia", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Nutrición", 
+        "weight": 17.0
+      }, 
+      {
+        "name": "Veterinaria", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Petroquímica", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Mecánica Eléctrica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 151.0
+      }, 
+      {
+        "name": "Tecnología Médica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 114.0
+      }, 
+      {
+        "name": "Ing. Sanitaria", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 227.0
+      }, 
+      {
+        "name": "Química", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Contabilidad", 
+        "weight": 115.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 73.0
+      }, 
+      {
+        "name": "Ing. Estadística", 
+        "weight": 114.0
+      }, 
+      {
+        "name": "Ing. Pesquera", 
+        "weight": 30.0
+      }, 
+      {
+        "name": "Ing. de Minas", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Farmacia y Bioquímica", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Ing. Agrícola", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Derecho", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Agronomía", 
+        "weight": 178.0
+      }, 
+      {
+        "name": "Ing. Electrónica", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Hotelería y Turismo", 
+        "weight": 19.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 14.0
+      }, 
+      {
+        "name": "Medicina Humana", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Textil", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Metalúrgica", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Informática", 
+        "weight": 114.0
+      }, 
+      {
+        "name": "Ing. Eléctrica", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Biología", 
+        "weight": 14.0
+      }, 
+      {
+        "name": "Microbiología y Parasitología", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Ing. Naval", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Negocios Internacionales", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Mecánica", 
+        "weight": 9.0
+      }, 
+      {
+        "name": "Industrias Alimentarias", 
+        "weight": 37.0
+      }
+    ], 
+    "name": "Industrias Alimentarias", 
+    "size": 411.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Ing. Higiene y Seguridad Industrial", 
+        "weight": 11.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 91.0
+      }, 
+      {
+        "name": "Ing. Ambiental", 
+        "weight": 20.0
+      }, 
+      {
+        "name": "Ing. Civil", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 9.0
+      }, 
+      {
+        "name": "Industrias Alimentarias", 
+        "weight": 178.0
+      }, 
+      {
+        "name": "Ing. Geológica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Zootecnia", 
+        "weight": 50.0
+      }, 
+      {
+        "name": "Nutrición", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Veterinaria", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Petroquímica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Mecánica Eléctrica", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. Forestal", 
+        "weight": 48.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 186.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 165.0
+      }, 
+      {
+        "name": "Ing. Sanitaria", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Finanzas", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 237.0
+      }, 
+      {
+        "name": "Antropología", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Contabilidad", 
+        "weight": 164.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 45.0
+      }, 
+      {
+        "name": "Ing. Estadística", 
+        "weight": 120.0
+      }, 
+      {
+        "name": "Ing. Pesquera", 
+        "weight": 24.0
+      }, 
+      {
+        "name": "Ing. de Minas", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Agrícola", 
+        "weight": 49.0
+      }, 
+      {
+        "name": "Arquitectura", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Derecho", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Ing. Textil", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Sociología", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Informática", 
+        "weight": 142.0
+      }, 
+      {
+        "name": "Ing. Eléctrica", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Biología", 
+        "weight": 16.0
+      }, 
+      {
+        "name": "Microbiología y Parasitología", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Negocios Internacionales", 
+        "weight": 11.0
+      }, 
+      {
+        "name": "Ing. Mecánica", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Ing. Económica", 
+        "weight": 33.0
+      }, 
+      {
+        "name": "Comunicación Organizacional", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Agronomía", 
+        "weight": 41.0
+      }
+    ], 
+    "name": "Agronomía", 
+    "size": 395.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Publicidad", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 134.0
+      }, 
+      {
+        "name": "Ing. Ambiental", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Civil", 
+        "weight": 27.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 27.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 33.0
+      }, 
+      {
+        "name": "Ing. Geológica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Geografía", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Zootecnia", 
+        "weight": 32.0
+      }, 
+      {
+        "name": "Ing. de Telecomunicaciones", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Mecánica Eléctrica", 
+        "weight": 12.0
+      }, 
+      {
+        "name": "Ing. Forestal", 
+        "weight": 30.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 240.0
+      }, 
+      {
+        "name": "Matemática", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. Mecatrónica", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 345.0
+      }, 
+      {
+        "name": "Finanzas", 
+        "weight": 28.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 193.0
+      }, 
+      {
+        "name": "Antropología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Contabilidad", 
+        "weight": 169.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Estadística", 
+        "weight": 11.0
+      }, 
+      {
+        "name": "Historia", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Psicología", 
+        "weight": 19.0
+      }, 
+      {
+        "name": "Ing. de Minas", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Agrícola", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Arquitectura", 
+        "weight": 12.0
+      }, 
+      {
+        "name": "Derecho", 
+        "weight": 19.0
+      }, 
+      {
+        "name": "Agronomía", 
+        "weight": 33.0
+      }, 
+      {
+        "name": "Diseño Gráfico", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Electrónica", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 49.0
+      }, 
+      {
+        "name": "Medicina Humana", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Filosofía", 
+        "weight": 12.0
+      }, 
+      {
+        "name": "Ing. Textil", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Sociología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Metalúrgica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Informática", 
+        "weight": 53.0
+      }, 
+      {
+        "name": "Ing. Eléctrica", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Biología", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Trabajo Social", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Microbiología y Parasitología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Negocios Internacionales", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Diseño de Interiores", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Mecánica", 
+        "weight": 11.0
+      }, 
+      {
+        "name": "Literatura y Lingüística", 
+        "weight": 12.0
+      }, 
+      {
+        "name": "Ing. Económica", 
+        "weight": 0
+      }
+    ], 
+    "name": "Ing. Económica", 
+    "size": 355.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Publicidad", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Higiene y Seguridad Industrial", 
+        "weight": 84.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 169.0
+      }, 
+      {
+        "name": "Ing. Civil", 
+        "weight": 37.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. de Petróleo", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Industrias Alimentarias", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Geológica", 
+        "weight": 11.0
+      }, 
+      {
+        "name": "Geografía", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Enfermería", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Zootecnia", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Veterinaria", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Petroquímica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Mecánica Eléctrica", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Ing. Forestal", 
+        "weight": 14.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 18.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Meteorología", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Sanitaria", 
+        "weight": 26.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 75.0
+      }, 
+      {
+        "name": "Antropología", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Contabilidad", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 90.0
+      }, 
+      {
+        "name": "Historia", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Pesquera", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Psicología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. de Minas", 
+        "weight": 35.0
+      }, 
+      {
+        "name": "Farmacia y Bioquímica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Agrícola", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Arquitectura", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Derecho", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Agronomía", 
+        "weight": 20.0
+      }, 
+      {
+        "name": "Ing. Electrónica", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Medicina Humana", 
+        "weight": 36.0
+      }, 
+      {
+        "name": "Sociología", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Ing. Metalúrgica", 
+        "weight": 14.0
+      }, 
+      {
+        "name": "Ing. Eléctrica", 
+        "weight": 16.0
+      }, 
+      {
+        "name": "Biología", 
+        "weight": 17.0
+      }, 
+      {
+        "name": "Trabajo Social", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Microbiología y Parasitología", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Mecánica", 
+        "weight": 22.0
+      }, 
+      {
+        "name": "Ing. Económica", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Comunicación Organizacional", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Ambiental", 
+        "weight": 47.0
+      }
+    ], 
+    "name": "Ing. Ambiental", 
+    "size": 350.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Ing. Higiene y Seguridad Industrial", 
+        "weight": 23.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 94.0
+      }, 
+      {
+        "name": "Ing. Ambiental", 
+        "weight": 35.0
+      }, 
+      {
+        "name": "Ing. Civil", 
+        "weight": 40.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. de Petróleo", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Industrias Alimentarias", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Geológica", 
+        "weight": 68.0
+      }, 
+      {
+        "name": "Ing. Petroquímica", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Mecánica Eléctrica", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 24.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Sanitaria", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 66.0
+      }, 
+      {
+        "name": "Contabilidad", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 25.0
+      }, 
+      {
+        "name": "Agronomía", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Medicina Humana", 
+        "weight": 16.0
+      }, 
+      {
+        "name": "Ing. Metalúrgica", 
+        "weight": 58.0
+      }, 
+      {
+        "name": "Ing. Eléctrica", 
+        "weight": 15.0
+      }, 
+      {
+        "name": "Negocios Internacionales", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. Mecánica", 
+        "weight": 30.0
+      }, 
+      {
+        "name": "Ing. Económica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. de Minas", 
+        "weight": 88.0
+      }
+    ], 
+    "name": "Ing. de Minas", 
+    "size": 317.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Ing. Higiene y Seguridad Industrial", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 94.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 71.0
+      }, 
+      {
+        "name": "Industrias Alimentarias", 
+        "weight": 114.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 171.0
+      }, 
+      {
+        "name": "Matemática", 
+        "weight": 11.0
+      }, 
+      {
+        "name": "Ing. Mecatrónica", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 171.0
+      }, 
+      {
+        "name": "Finanzas", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 147.0
+      }, 
+      {
+        "name": "Antropología", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Contabilidad", 
+        "weight": 127.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Pesquera", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Psicología", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Agrícola", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Derecho", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Agronomía", 
+        "weight": 120.0
+      }, 
+      {
+        "name": "Ing. Electrónica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 12.0
+      }, 
+      {
+        "name": "Ciencia de la Computación", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Sociología", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Metalúrgica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Informática", 
+        "weight": 163.0
+      }, 
+      {
+        "name": "Física", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Negocios Internacionales", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Mecánica", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. Económica", 
+        "weight": 11.0
+      }, 
+      {
+        "name": "Ing. Estadística", 
+        "weight": 7.0
+      }
+    ], 
+    "name": "Ing. Estadística", 
+    "size": 269.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Publicidad", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 127.0
+      }, 
+      {
+        "name": "Ing. Ambiental", 
+        "weight": 84.0
+      }, 
+      {
+        "name": "Ing. Civil", 
+        "weight": 14.0
+      }, 
+      {
+        "name": "Ing. de Petróleo", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Industrias Alimentarias", 
+        "weight": 15.0
+      }, 
+      {
+        "name": "Ing. Geológica", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Geografía", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Enfermería", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Petroquímica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Mecánica Eléctrica", 
+        "weight": 10.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Sanitaria", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 79.0
+      }, 
+      {
+        "name": "Química", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 38.0
+      }, 
+      {
+        "name": "Ing. Estadística", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Pesquera", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. de Minas", 
+        "weight": 23.0
+      }, 
+      {
+        "name": "Ing. Agrícola", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Derecho", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Agronomía", 
+        "weight": 11.0
+      }, 
+      {
+        "name": "Ing. Electrónica", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Hotelería y Turismo", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Mecánica de Fluidos", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Medicina Humana", 
+        "weight": 21.0
+      }, 
+      {
+        "name": "Ing. Textil", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Metalúrgica", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Informática", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Física", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Eléctrica", 
+        "weight": 25.0
+      }, 
+      {
+        "name": "Biología", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. Mecánica", 
+        "weight": 23.0
+      }, 
+      {
+        "name": "Ing. Higiene y Seguridad Industrial", 
+        "weight": 31.0
+      }
+    ], 
+    "name": "Ing. Higiene y Seguridad Industrial", 
+    "size": 262.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Ing. Higiene y Seguridad Industrial", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 66.0
+      }, 
+      {
+        "name": "Ing. Ambiental", 
+        "weight": 14.0
+      }, 
+      {
+        "name": "Ing. Civil", 
+        "weight": 20.0
+      }, 
+      {
+        "name": "Ing. de Petróleo", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Industrias Alimentarias", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Geológica", 
+        "weight": 25.0
+      }, 
+      {
+        "name": "Ing. Petroquímica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Mecánica Eléctrica", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 22.0
+      }, 
+      {
+        "name": "Ing. Mecatrónica", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 102.0
+      }, 
+      {
+        "name": "Química", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 55.0
+      }, 
+      {
+        "name": "Ing. Estadística", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. de Minas", 
+        "weight": 58.0
+      }, 
+      {
+        "name": "Farmacia y Bioquímica", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Agrícola", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Arquitectura", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Ing. Mecánica de Fluidos", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Medicina Humana", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. Eléctrica", 
+        "weight": 13.0
+      }, 
+      {
+        "name": "Biología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Naval", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Mecánica", 
+        "weight": 45.0
+      }, 
+      {
+        "name": "Ing. Económica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Metalúrgica", 
+        "weight": 12.0
+      }
+    ], 
+    "name": "Ing. Metalúrgica", 
+    "size": 204.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Ing. Industrial", 
+        "weight": 49.0
+      }, 
+      {
+        "name": "Ing. Civil", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Ing. de Telecomunicaciones", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Ing. Petroquímica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Mecánica Eléctrica", 
+        "weight": 33.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 10.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Ing. Sanitaria", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 96.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Ing. Estadística", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Agrícola", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Arquitectura", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Electrónica", 
+        "weight": 86.0
+      }, 
+      {
+        "name": "Ing. Mecánica de Fluidos", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Metalúrgica", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Eléctrica", 
+        "weight": 73.0
+      }, 
+      {
+        "name": "Ing. Naval", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Mecánica", 
+        "weight": 115.0
+      }, 
+      {
+        "name": "Ing. Económica", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Ing. Mecatrónica", 
+        "weight": 4.0
+      }
+    ], 
+    "name": "Ing. Mecatrónica", 
+    "size": 178.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Ing. Higiene y Seguridad Industrial", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 41.0
+      }, 
+      {
+        "name": "Ing. Ambiental", 
+        "weight": 26.0
+      }, 
+      {
+        "name": "Ing. Civil", 
+        "weight": 71.0
+      }, 
+      {
+        "name": "Industrias Alimentarias", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Geológica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Geografía", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Enfermería", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Mecánica Eléctrica", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Ing. Forestal", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Tecnología Médica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Mecatrónica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 47.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 13.0
+      }, 
+      {
+        "name": "Ing. de Minas", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Arquitectura", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Agronomía", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Electrónica", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Hotelería y Turismo", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Mecánica de Fluidos", 
+        "weight": 24.0
+      }, 
+      {
+        "name": "Ing. Eléctrica", 
+        "weight": 14.0
+      }, 
+      {
+        "name": "Biología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Periodismo", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Microbiología y Parasitología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Mecánica", 
+        "weight": 29.0
+      }, 
+      {
+        "name": "Ing. Sanitaria", 
+        "weight": 26.0
+      }
+    ], 
+    "name": "Ing. Sanitaria", 
+    "size": 155.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Ing. Higiene y Seguridad Industrial", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 13.0
+      }, 
+      {
+        "name": "Ing. Ambiental", 
+        "weight": 11.0
+      }, 
+      {
+        "name": "Ing. Civil", 
+        "weight": 39.0
+      }, 
+      {
+        "name": "Ing. de Petróleo", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Industrias Alimentarias", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Geografía", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Petroquímica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Mecánica Eléctrica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Sanitaria", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 28.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 12.0
+      }, 
+      {
+        "name": "Ing. de Minas", 
+        "weight": 68.0
+      }, 
+      {
+        "name": "Ing. Agrícola", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Agronomía", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Medicina Humana", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Ing. Metalúrgica", 
+        "weight": 25.0
+      }, 
+      {
+        "name": "Ing. Informática", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Eléctrica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Biología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Mecánica", 
+        "weight": 9.0
+      }, 
+      {
+        "name": "Ing. Económica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Geológica", 
+        "weight": 28.0
+      }
+    ], 
+    "name": "Ing. Geológica", 
+    "size": 139.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Ing. Higiene y Seguridad Industrial", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 33.0
+      }, 
+      {
+        "name": "Ing. Ambiental", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. Civil", 
+        "weight": 24.0
+      }, 
+      {
+        "name": "Ing. de Petróleo", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Industrias Alimentarias", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Ing. Geológica", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Geografía", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Zootecnia", 
+        "weight": 10.0
+      }, 
+      {
+        "name": "Nutrición", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Veterinaria", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Ing. Petroquímica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Mecánica Eléctrica", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Forestal", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 17.0
+      }, 
+      {
+        "name": "Ing. Mecatrónica", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Finanzas", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 68.0
+      }, 
+      {
+        "name": "Química", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Contabilidad", 
+        "weight": 10.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Ing. Estadística", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Ing. Pesquera", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Farmacia y Bioquímica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Arquitectura", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Derecho", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Agronomía", 
+        "weight": 49.0
+      }, 
+      {
+        "name": "Ing. Electrónica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Medicina Humana", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Metalúrgica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Informática", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Eléctrica", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Biología", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Negocios Internacionales", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Mecánica", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Ing. Económica", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Agrícola", 
+        "weight": 9.0
+      }
+    ], 
+    "name": "Ing. Agrícola", 
+    "size": 118.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Publicidad", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Ing. Higiene y Seguridad Industrial", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 48.0
+      }, 
+      {
+        "name": "Industrias Alimentarias", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Mecánica Eléctrica", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Diseño de Modas", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Finanzas", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 33.0
+      }, 
+      {
+        "name": "Contabilidad", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 21.0
+      }, 
+      {
+        "name": "Farmacia y Bioquímica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Agronomía", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Diseño Gráfico", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Eléctrica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Negocios Internacionales", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Diseño de Interiores", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Mecánica", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Ing. Económica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Textil", 
+        "weight": 10.0
+      }
+    ], 
+    "name": "Ing. Textil", 
+    "size": 91.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Ing. Industrial", 
+        "weight": 18.0
+      }, 
+      {
+        "name": "Ing. Ambiental", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Industrias Alimentarias", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Nutrición", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Veterinaria", 
+        "weight": 21.0
+      }, 
+      {
+        "name": "Ing. Forestal", 
+        "weight": 42.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 39.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 40.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 48.0
+      }, 
+      {
+        "name": "Antropología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Contabilidad", 
+        "weight": 39.0
+      }, 
+      {
+        "name": "Historia", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Farmacia y Bioquímica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Agrícola", 
+        "weight": 10.0
+      }, 
+      {
+        "name": "Agronomía", 
+        "weight": 50.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Informática", 
+        "weight": 28.0
+      }, 
+      {
+        "name": "Biología", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Negocios Internacionales", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Ing. Mecánica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Económica", 
+        "weight": 32.0
+      }, 
+      {
+        "name": "Zootecnia", 
+        "weight": 4.0
+      }
+    ], 
+    "name": "Zootecnia", 
+    "size": 75.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Ing. Industrial", 
+        "weight": 17.0
+      }, 
+      {
+        "name": "Ing. Ambiental", 
+        "weight": 14.0
+      }, 
+      {
+        "name": "Ing. Civil", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Geografía", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Zootecnia", 
+        "weight": 42.0
+      }, 
+      {
+        "name": "Veterinaria", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 38.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 38.0
+      }, 
+      {
+        "name": "Ing. Sanitaria", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 35.0
+      }, 
+      {
+        "name": "Antropología", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Contabilidad", 
+        "weight": 37.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Historia", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Agrícola", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Agronomía", 
+        "weight": 48.0
+      }, 
+      {
+        "name": "Sociología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Informática", 
+        "weight": 28.0
+      }, 
+      {
+        "name": "Biología", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Negocios Internacionales", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Ing. Económica", 
+        "weight": 30.0
+      }, 
+      {
+        "name": "Ing. Forestal", 
+        "weight": 5.0
+      }
+    ], 
+    "name": "Ing. Forestal", 
+    "size": 66.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Ing. Higiene y Seguridad Industrial", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 24.0
+      }, 
+      {
+        "name": "Ing. Ambiental", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Civil", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. de Petróleo", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Industrias Alimentarias", 
+        "weight": 30.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 18.0
+      }, 
+      {
+        "name": "Contabilidad", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 17.0
+      }, 
+      {
+        "name": "Ing. Estadística", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Agrícola", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Arquitectura", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Agronomía", 
+        "weight": 24.0
+      }, 
+      {
+        "name": "Medicina Humana", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Eléctrica", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Biología", 
+        "weight": 9.0
+      }, 
+      {
+        "name": "Negocios Internacionales", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Mecánica", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Ing. Pesquera", 
+        "weight": 5.0
+      }
+    ], 
+    "name": "Ing. Pesquera", 
+    "size": 65.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Ing. Higiene y Seguridad Industrial", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 21.0
+      }, 
+      {
+        "name": "Ing. Civil", 
+        "weight": 23.0
+      }, 
+      {
+        "name": "Ing. Mecánica Eléctrica", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. Mecatrónica", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Sanitaria", 
+        "weight": 24.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 23.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Arquitectura", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Electrónica", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Ing. Metalúrgica", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Eléctrica", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Ing. Mecánica", 
+        "weight": 34.0
+      }, 
+      {
+        "name": "Ing. Mecánica de Fluidos", 
+        "weight": 8.0
+      }
+    ], 
+    "name": "Ing. Mecánica de Fluidos", 
+    "size": 63.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Ing. Higiene y Seguridad Industrial", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 16.0
+      }, 
+      {
+        "name": "Ing. Ambiental", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Civil", 
+        "weight": 10.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Geológica", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Geografía", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Petroquímica", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Mecánica Eléctrica", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 11.0
+      }, 
+      {
+        "name": "Contabilidad", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 10.0
+      }, 
+      {
+        "name": "Ing. Pesquera", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. de Minas", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. Agrícola", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Arquitectura", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Electrónica", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Medicina Humana", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Metalúrgica", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. Informática", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Eléctrica", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Ing. Mecánica", 
+        "weight": 17.0
+      }, 
+      {
+        "name": "Ing. de Petróleo", 
+        "weight": 1.0
+      }
+    ], 
+    "name": "Ing. de Petróleo", 
+    "size": 32.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Ing. Higiene y Seguridad Industrial", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 15.0
+      }, 
+      {
+        "name": "Ing. Ambiental", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Civil", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. de Petróleo", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Industrias Alimentarias", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Geológica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Pintura", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. de Telecomunicaciones", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Mecánica Eléctrica", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Mecatrónica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 22.0
+      }, 
+      {
+        "name": "Ing. de Minas", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Farmacia y Bioquímica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Agrícola", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Derecho", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Agronomía", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Electrónica", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Metalúrgica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Informática", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Eléctrica", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Ing. Mecánica", 
+        "weight": 13.0
+      }, 
+      {
+        "name": "Ing. Petroquímica", 
+        "weight": 1.0
+      }
+    ], 
+    "name": "Ing. Petroquímica", 
+    "size": 31.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Ing. Industrial", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Ing. Civil", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Industrias Alimentarias", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Mecánica Eléctrica", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Mecatrónica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Electrónica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Metalúrgica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Negocios Internacionales", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Mecánica", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Ing. Naval", 
+        "weight": 0
+      }
+    ], 
+    "name": "Ing. Naval", 
+    "size": 8.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Ing. Ambiental", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Electrónica", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Meteorología", 
+        "weight": 0
+      }
+    ], 
+    "name": "Meteorología", 
+    "size": 3.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Otros", 
+        "weight": 20880.0
+      }
+    ], 
+    "name": "Otros", 
+    "size": 20880.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Publicidad", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 290.0
+      }, 
+      {
+        "name": "Ing. Ambiental", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 141.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Enfermería", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. de Telecomunicaciones", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 578.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 105.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 59.0
+      }, 
+      {
+        "name": "Finanzas", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 259.0
+      }, 
+      {
+        "name": "Antropología", 
+        "weight": 10.0
+      }, 
+      {
+        "name": "Contabilidad", 
+        "weight": 79.0
+      }, 
+      {
+        "name": "Ing. Estadística", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Historia", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Bibliotecología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Arquitectura", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Derecho", 
+        "weight": 37.0
+      }, 
+      {
+        "name": "Diseño Gráfico", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Hotelería y Turismo", 
+        "weight": 15.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 70.0
+      }, 
+      {
+        "name": "Medicina Humana", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Filosofía", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Sociología", 
+        "weight": 14.0
+      }, 
+      {
+        "name": "Ing. Informática", 
+        "weight": 17.0
+      }, 
+      {
+        "name": "Trabajo Social", 
+        "weight": 27.0
+      }, 
+      {
+        "name": "Negocios Internacionales", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Económica", 
+        "weight": 19.0
+      }, 
+      {
+        "name": "Escultura", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Literatura y Lingüística", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Comunicación Organizacional", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Psicología", 
+        "weight": 725.0
+      }
+    ], 
+    "name": "Psicología", 
+    "size": 1539.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Publicidad", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Ing. Higiene y Seguridad Industrial", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 42.0
+      }, 
+      {
+        "name": "Traducción e Interpretación Profesional", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Ambiental", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Civil", 
+        "weight": 9.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 75.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 13.0
+      }, 
+      {
+        "name": "Ing. Geológica", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Geografía", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Enfermería", 
+        "weight": 28.0
+      }, 
+      {
+        "name": "Artes Escénicas", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Zootecnia", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Nutrición", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Veterinaria", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Forestal", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 168.0
+      }, 
+      {
+        "name": "Tecnología Médica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Matemática", 
+        "weight": 19.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 20.0
+      }, 
+      {
+        "name": "Finanzas", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 242.0
+      }, 
+      {
+        "name": "Antropología", 
+        "weight": 22.0
+      }, 
+      {
+        "name": "Química", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Contabilidad", 
+        "weight": 22.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Ing. Estadística", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Historia", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Psicología", 
+        "weight": 105.0
+      }, 
+      {
+        "name": "Ing. de Minas", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Agrícola", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Bibliotecología", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Derecho", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Agronomía", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Diseño Gráfico", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Hotelería y Turismo", 
+        "weight": 11.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 54.0
+      }, 
+      {
+        "name": "Medicina Humana", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Sociología", 
+        "weight": 10.0
+      }, 
+      {
+        "name": "Ing. Metalúrgica", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Comunicación Audiovisual", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Informática", 
+        "weight": 21.0
+      }, 
+      {
+        "name": "Física", 
+        "weight": 14.0
+      }, 
+      {
+        "name": "Ing. Eléctrica", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Biología", 
+        "weight": 11.0
+      }, 
+      {
+        "name": "Periodismo", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Trabajo Social", 
+        "weight": 20.0
+      }, 
+      {
+        "name": "Microbiología y Parasitología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Negocios Internacionales", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Mecánica", 
+        "weight": 12.0
+      }, 
+      {
+        "name": "Ing. Económica", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Escultura", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Literatura y Lingüística", 
+        "weight": 10.0
+      }, 
+      {
+        "name": "Comunicación Organizacional", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 354.0
+      }
+    ], 
+    "name": "Educación", 
+    "size": 830.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Publicidad", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 19.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 17.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 31.0
+      }, 
+      {
+        "name": "Antropología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Contabilidad", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Historia", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Psicología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Derecho", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Diseño Gráfico", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Informática", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Ing. Eléctrica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Mecánica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Bibliotecología", 
+        "weight": 14.0
+      }
+    ], 
+    "name": "Bibliotecología", 
+    "size": 63.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Publicidad", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 12.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Mecánica Eléctrica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 10.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 28.0
+      }, 
+      {
+        "name": "Diseño Gráfico", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Hotelería y Turismo", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Filosofía", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Periodismo", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Negocios Internacionales", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Mecánica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Literatura y Lingüística", 
+        "weight": 19.0
+      }, 
+      {
+        "name": "Comunicación Organizacional", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Traducción e Interpretación Profesional", 
+        "weight": 7.0
+      }
+    ], 
+    "name": "Traducción e Interpretación Profesional", 
+    "size": 53.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Publicidad", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 12.0
+      }, 
+      {
+        "name": "Traducción e Interpretación Profesional", 
+        "weight": 19.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 17.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 13.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 10.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 12.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 20.0
+      }, 
+      {
+        "name": "Historia", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Psicología", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Derecho", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Filosofía", 
+        "weight": 14.0
+      }, 
+      {
+        "name": "Periodismo", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Ing. Económica", 
+        "weight": 12.0
+      }, 
+      {
+        "name": "Literatura y Lingüística", 
+        "weight": 1.0
+      }
+    ], 
+    "name": "Literatura y Lingüística", 
+    "size": 52.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Ing. Industrial", 
+        "weight": 12.0
+      }, 
+      {
+        "name": "Traducción e Interpretación Profesional", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 12.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 12.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 20.0
+      }, 
+      {
+        "name": "Contabilidad", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Historia", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Psicología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Derecho", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Periodismo", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Económica", 
+        "weight": 12.0
+      }, 
+      {
+        "name": "Literatura y Lingüística", 
+        "weight": 14.0
+      }, 
+      {
+        "name": "Filosofía", 
+        "weight": 0
+      }
+    ], 
+    "name": "Filosofía", 
+    "size": 28.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Publicidad", 
+        "weight": 218.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 186.0
+      }, 
+      {
+        "name": "Traducción e Interpretación Profesional", 
+        "weight": 12.0
+      }, 
+      {
+        "name": "Ing. Ambiental", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Civil", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Ing. de Petróleo", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 128.0
+      }, 
+      {
+        "name": "Enfermería", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Zootecnia", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. de Telecomunicaciones", 
+        "weight": 33.0
+      }, 
+      {
+        "name": "Ing. Petroquímica", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Mecánica Eléctrica", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Forestal", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 824.0
+      }, 
+      {
+        "name": "Matemática", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Diseño de Modas", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Mecatrónica", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 75.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 201.0
+      }, 
+      {
+        "name": "Finanzas", 
+        "weight": 12.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 758.0
+      }, 
+      {
+        "name": "Antropología", 
+        "weight": 16.0
+      }, 
+      {
+        "name": "Contabilidad", 
+        "weight": 225.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Estadística", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Historia", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Psicología", 
+        "weight": 141.0
+      }, 
+      {
+        "name": "Ing. de Minas", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Bibliotecología", 
+        "weight": 19.0
+      }, 
+      {
+        "name": "Arquitectura", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Derecho", 
+        "weight": 33.0
+      }, 
+      {
+        "name": "Agronomía", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Diseño Gráfico", 
+        "weight": 33.0
+      }, 
+      {
+        "name": "Ing. Electrónica", 
+        "weight": 39.0
+      }, 
+      {
+        "name": "Hotelería y Turismo", 
+        "weight": 209.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 672.0
+      }, 
+      {
+        "name": "Filosofía", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Sociología", 
+        "weight": 17.0
+      }, 
+      {
+        "name": "Comunicación Audiovisual", 
+        "weight": 23.0
+      }, 
+      {
+        "name": "Ing. Informática", 
+        "weight": 76.0
+      }, 
+      {
+        "name": "Física", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Eléctrica", 
+        "weight": 9.0
+      }, 
+      {
+        "name": "Biología", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Periodismo", 
+        "weight": 73.0
+      }, 
+      {
+        "name": "Trabajo Social", 
+        "weight": 9.0
+      }, 
+      {
+        "name": "Negocios Internacionales", 
+        "weight": 22.0
+      }, 
+      {
+        "name": "Diseño de Interiores", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Mecánica", 
+        "weight": 10.0
+      }, 
+      {
+        "name": "Ing. Económica", 
+        "weight": 27.0
+      }, 
+      {
+        "name": "Escultura", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Literatura y Lingüística", 
+        "weight": 17.0
+      }, 
+      {
+        "name": "Comunicación Organizacional", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 139.0
+      }
+    ], 
+    "name": "Ciencias de la Comunicación", 
+    "size": 1551.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Ing. Higiene y Seguridad Industrial", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 36.0
+      }, 
+      {
+        "name": "Traducción e Interpretación Profesional", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Ambiental", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 218.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 10.0
+      }, 
+      {
+        "name": "Enfermería", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Nutrición", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. de Telecomunicaciones", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 204.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 302.0
+      }, 
+      {
+        "name": "Antropología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Contabilidad", 
+        "weight": 15.0
+      }, 
+      {
+        "name": "Psicología", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Bibliotecología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Arquitectura", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Derecho", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Diseño Gráfico", 
+        "weight": 53.0
+      }, 
+      {
+        "name": "Ing. Electrónica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Hotelería y Turismo", 
+        "weight": 13.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 335.0
+      }, 
+      {
+        "name": "Medicina Humana", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Textil", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Sociología", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Comunicación Audiovisual", 
+        "weight": 10.0
+      }, 
+      {
+        "name": "Ing. Informática", 
+        "weight": 9.0
+      }, 
+      {
+        "name": "Física", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Periodismo", 
+        "weight": 12.0
+      }, 
+      {
+        "name": "Trabajo Social", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Negocios Internacionales", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Diseño de Interiores", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Económica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Literatura y Lingüística", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Comunicación Organizacional", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Publicidad", 
+        "weight": 101.0
+      }
+    ], 
+    "name": "Publicidad", 
+    "size": 645.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Publicidad", 
+        "weight": 12.0
+      }, 
+      {
+        "name": "Traducción e Interpretación Profesional", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 73.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Odontología", 
+        "weight": 58.0
+      }, 
+      {
+        "name": "Enfermería", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Mecánica Eléctrica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Diseño de Modas", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Sanitaria", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 19.0
+      }, 
+      {
+        "name": "Arquitectura", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Derecho", 
+        "weight": 58.0
+      }, 
+      {
+        "name": "Diseño Gráfico", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Hotelería y Turismo", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 12.0
+      }, 
+      {
+        "name": "Medicina Humana", 
+        "weight": 60.0
+      }, 
+      {
+        "name": "Filosofía", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Sociología", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Comunicación Audiovisual", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. Informática", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Eléctrica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Trabajo Social", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Negocios Internacionales", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Diseño de Interiores", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Mecánica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Literatura y Lingüística", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Comunicación Organizacional", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Periodismo", 
+        "weight": 7.0
+      }
+    ], 
+    "name": "Periodismo", 
+    "size": 156.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Publicidad", 
+        "weight": 10.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 23.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. de Telecomunicaciones", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 10.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 34.0
+      }, 
+      {
+        "name": "Diseño Gráfico", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Ing. Electrónica", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 10.0
+      }, 
+      {
+        "name": "Ing. Informática", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Periodismo", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Comunicación Audiovisual", 
+        "weight": 10.0
+      }
+    ], 
+    "name": "Comunicación Audiovisual", 
+    "size": 57.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Publicidad", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Traducción e Interpretación Profesional", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Ambiental", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Antropología", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Psicología", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Derecho", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Agronomía", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Sociología", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Periodismo", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Trabajo Social", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Comunicación Organizacional", 
+        "weight": 1.0
+      }
+    ], 
+    "name": "Comunicación Organizacional", 
+    "size": 14.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Publicidad", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Higiene y Seguridad Industrial", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 164.0
+      }, 
+      {
+        "name": "Ing. Ambiental", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Civil", 
+        "weight": 15.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 33.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Odontología", 
+        "weight": 58.0
+      }, 
+      {
+        "name": "Industrias Alimentarias", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. de Telecomunicaciones", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Petroquímica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 325.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 163.0
+      }, 
+      {
+        "name": "Finanzas", 
+        "weight": 28.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 163.0
+      }, 
+      {
+        "name": "Antropología", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Contabilidad", 
+        "weight": 149.0
+      }, 
+      {
+        "name": "Ing. Estadística", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Historia", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Psicología", 
+        "weight": 37.0
+      }, 
+      {
+        "name": "Ing. Agrícola", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Bibliotecología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Arquitectura", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Agronomía", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Diseño Gráfico", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Hotelería y Turismo", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 39.0
+      }, 
+      {
+        "name": "Medicina Humana", 
+        "weight": 60.0
+      }, 
+      {
+        "name": "Filosofía", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Sociología", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Ing. Informática", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Ing. Eléctrica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Periodismo", 
+        "weight": 58.0
+      }, 
+      {
+        "name": "Trabajo Social", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Negocios Internacionales", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Diseño de Interiores", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Económica", 
+        "weight": 19.0
+      }, 
+      {
+        "name": "Literatura y Lingüística", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Comunicación Organizacional", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Derecho", 
+        "weight": 385.0
+      }
+    ], 
+    "name": "Derecho", 
+    "size": 856.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Publicidad", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 9.0
+      }, 
+      {
+        "name": "Ing. Ambiental", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 9.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Enfermería", 
+        "weight": 20.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 80.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 20.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Finanzas", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 40.0
+      }, 
+      {
+        "name": "Antropología", 
+        "weight": 19.0
+      }, 
+      {
+        "name": "Contabilidad", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Psicología", 
+        "weight": 27.0
+      }, 
+      {
+        "name": "Derecho", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Hotelería y Turismo", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Medicina Humana", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Sociología", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Ing. Informática", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Periodismo", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Económica", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Comunicación Organizacional", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Trabajo Social", 
+        "weight": 376.0
+      }
+    ], 
+    "name": "Trabajo Social", 
+    "size": 488.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Publicidad", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Ing. Ambiental", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 17.0
+      }, 
+      {
+        "name": "Ing. Forestal", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 14.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 10.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 15.0
+      }, 
+      {
+        "name": "Finanzas", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 11.0
+      }, 
+      {
+        "name": "Antropología", 
+        "weight": 27.0
+      }, 
+      {
+        "name": "Contabilidad", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Ing. Estadística", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Psicología", 
+        "weight": 14.0
+      }, 
+      {
+        "name": "Arquitectura", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Derecho", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Agronomía", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Medicina Humana", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Informática", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Biología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Periodismo", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Trabajo Social", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Negocios Internacionales", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Diseño de Interiores", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Económica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Comunicación Organizacional", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Sociología", 
+        "weight": 7.0
+      }
+    ], 
+    "name": "Sociología", 
+    "size": 58.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Publicidad", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Ambiental", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 16.0
+      }, 
+      {
+        "name": "Enfermería", 
+        "weight": 15.0
+      }, 
+      {
+        "name": "Zootecnia", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Forestal", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 18.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 22.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Finanzas", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 22.0
+      }, 
+      {
+        "name": "Contabilidad", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Estadística", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Historia", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Psicología", 
+        "weight": 10.0
+      }, 
+      {
+        "name": "Bibliotecología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Derecho", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Agronomía", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Diseño Gráfico", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Sociología", 
+        "weight": 27.0
+      }, 
+      {
+        "name": "Ing. Informática", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Biología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Trabajo Social", 
+        "weight": 19.0
+      }, 
+      {
+        "name": "Ing. Económica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Comunicación Organizacional", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Antropología", 
+        "weight": 0
+      }
+    ], 
+    "name": "Antropología", 
+    "size": 49.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Ing. Industrial", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Ambiental", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Geografía", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Zootecnia", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Forestal", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Antropología", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Contabilidad", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Psicología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Bibliotecología", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Derecho", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Filosofía", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Económica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Literatura y Lingüística", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Historia", 
+        "weight": 3.0
+      }
+    ], 
+    "name": "Historia", 
+    "size": 20.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Ing. Higiene y Seguridad Industrial", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Ing. Ambiental", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. Civil", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. de Petróleo", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Geológica", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Forestal", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Sanitaria", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Historia", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Agrícola", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Arquitectura", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Biología", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Microbiología y Parasitología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Económica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Geografía", 
+        "weight": 2.0
+      }
+    ], 
+    "name": "Geografía", 
+    "size": 15.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Hotelería y Turismo", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Arqueología", 
+        "weight": 7.0
+      }
+    ], 
+    "name": "Arqueología", 
+    "size": 8.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Publicidad", 
+        "weight": 53.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Traducción e Interpretación Profesional", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Civil", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 33.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Diseño Industrial", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. de Telecomunicaciones", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 12.0
+      }, 
+      {
+        "name": "Diseño de Modas", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 262.0
+      }, 
+      {
+        "name": "Antropología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Contabilidad", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Psicología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Bibliotecología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Arquitectura", 
+        "weight": 19.0
+      }, 
+      {
+        "name": "Derecho", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Hotelería y Turismo", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 27.0
+      }, 
+      {
+        "name": "Ing. Textil", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Comunicación Audiovisual", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Ing. Informática", 
+        "weight": 13.0
+      }, 
+      {
+        "name": "Ing. Eléctrica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Periodismo", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Negocios Internacionales", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Diseño de Interiores", 
+        "weight": 15.0
+      }, 
+      {
+        "name": "Ing. Económica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Diseño Gráfico", 
+        "weight": 66.0
+      }
+    ], 
+    "name": "Diseño Gráfico", 
+    "size": 369.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Publicidad", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. Civil", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Pintura", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 15.0
+      }, 
+      {
+        "name": "Diseño de Modas", 
+        "weight": 9.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 82.0
+      }, 
+      {
+        "name": "Arquitectura", 
+        "weight": 60.0
+      }, 
+      {
+        "name": "Derecho", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Diseño Gráfico", 
+        "weight": 15.0
+      }, 
+      {
+        "name": "Hotelería y Turismo", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 10.0
+      }, 
+      {
+        "name": "Medicina Humana", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Textil", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Sociología", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Informática", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Periodismo", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Mecánica", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Económica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Diseño de Interiores", 
+        "weight": 5.0
+      }
+    ], 
+    "name": "Diseño de Interiores", 
+    "size": 112.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Pintura", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. de Telecomunicaciones", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 36.0
+      }, 
+      {
+        "name": "Arquitectura", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Diseño Gráfico", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Hotelería y Turismo", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Textil", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Periodismo", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Diseño de Interiores", 
+        "weight": 9.0
+      }, 
+      {
+        "name": "Diseño de Modas", 
+        "weight": 10.0
+      }
+    ], 
+    "name": "Diseño de Modas", 
+    "size": 51.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Ing. Industrial", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Petroquímica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Diseño de Modas", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 14.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Arquitectura", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Eléctrica", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Diseño de Interiores", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Mecánica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Pintura", 
+        "weight": 26.0
+      }
+    ], 
+    "name": "Pintura", 
+    "size": 46.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 12.0
+      }, 
+      {
+        "name": "Diseño Gráfico", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Electrónica", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Ing. Mecánica", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Diseño Industrial", 
+        "weight": 2.0
+      }
+    ], 
+    "name": "Diseño Industrial", 
+    "size": 15.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Administración", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Artes Escénicas", 
+        "weight": 11.0
+      }
+    ], 
+    "name": "Artes Escénicas", 
+    "size": 12.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Finanzas", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Psicología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Escultura", 
+        "weight": 1.0
+      }
+    ], 
+    "name": "Escultura", 
+    "size": 2.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Publicidad", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Higiene y Seguridad Industrial", 
+        "weight": 21.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 67.0
+      }, 
+      {
+        "name": "Ing. Ambiental", 
+        "weight": 36.0
+      }, 
+      {
+        "name": "Ing. Civil", 
+        "weight": 14.0
+      }, 
+      {
+        "name": "Ing. de Petróleo", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Odontología", 
+        "weight": 63.0
+      }, 
+      {
+        "name": "Industrias Alimentarias", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Geológica", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Enfermería", 
+        "weight": 40.0
+      }, 
+      {
+        "name": "Nutrición", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Veterinaria", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Mecánica Eléctrica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 38.0
+      }, 
+      {
+        "name": "Tecnología Médica", 
+        "weight": 14.0
+      }, 
+      {
+        "name": "Matemática", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Finanzas", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 98.0
+      }, 
+      {
+        "name": "Contabilidad", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 17.0
+      }, 
+      {
+        "name": "Ing. Pesquera", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Psicología", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Ing. de Minas", 
+        "weight": 16.0
+      }, 
+      {
+        "name": "Farmacia y Bioquímica", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Ing. Agrícola", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Derecho", 
+        "weight": 60.0
+      }, 
+      {
+        "name": "Ing. Electrónica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Hotelería y Turismo", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Sociología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Metalúrgica", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Física", 
+        "weight": 10.0
+      }, 
+      {
+        "name": "Ing. Eléctrica", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Biología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Periodismo", 
+        "weight": 60.0
+      }, 
+      {
+        "name": "Trabajo Social", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Diseño de Interiores", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Mecánica", 
+        "weight": 9.0
+      }, 
+      {
+        "name": "Obstetricia", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Ing. Económica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Medicina Humana", 
+        "weight": 436.0
+      }
+    ], 
+    "name": "Medicina Humana", 
+    "size": 715.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Publicidad", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Higiene y Seguridad Industrial", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 15.0
+      }, 
+      {
+        "name": "Ing. Ambiental", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Ing. Civil", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Odontología", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Nutrición", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 49.0
+      }, 
+      {
+        "name": "Tecnología Médica", 
+        "weight": 10.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 28.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Sanitaria", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Finanzas", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 356.0
+      }, 
+      {
+        "name": "Antropología", 
+        "weight": 15.0
+      }, 
+      {
+        "name": "Química", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Contabilidad", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Psicología", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Farmacia y Bioquímica", 
+        "weight": 37.0
+      }, 
+      {
+        "name": "Hotelería y Turismo", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 10.0
+      }, 
+      {
+        "name": "Medicina Humana", 
+        "weight": 40.0
+      }, 
+      {
+        "name": "Física", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Biología", 
+        "weight": 10.0
+      }, 
+      {
+        "name": "Periodismo", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Trabajo Social", 
+        "weight": 20.0
+      }, 
+      {
+        "name": "Negocios Internacionales", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Obstetricia", 
+        "weight": 19.0
+      }, 
+      {
+        "name": "Enfermería", 
+        "weight": 219.0
+      }
+    ], 
+    "name": "Enfermería", 
+    "size": 619.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Ing. Industrial", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Odontología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Industrias Alimentarias", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Enfermería", 
+        "weight": 10.0
+      }, 
+      {
+        "name": "Nutrición", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Veterinaria", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Sanitaria", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 81.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Farmacia y Bioquímica", 
+        "weight": 12.0
+      }, 
+      {
+        "name": "Medicina Humana", 
+        "weight": 14.0
+      }, 
+      {
+        "name": "Ing. Informática", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Física", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Biología", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Microbiología y Parasitología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Obstetricia", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Tecnología Médica", 
+        "weight": 60.0
+      }
+    ], 
+    "name": "Tecnología Médica", 
+    "size": 159.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Publicidad", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Civil", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Odontología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Industrias Alimentarias", 
+        "weight": 17.0
+      }, 
+      {
+        "name": "Enfermería", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Zootecnia", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Veterinaria", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Tecnología Médica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 23.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Farmacia y Bioquímica", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Ing. Agrícola", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Agronomía", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Hotelería y Turismo", 
+        "weight": 9.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Medicina Humana", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Biología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Microbiología y Parasitología", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Obstetricia", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Nutrición", 
+        "weight": 87.0
+      }
+    ], 
+    "name": "Nutrición", 
+    "size": 135.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Ing. Industrial", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Odontología", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Enfermería", 
+        "weight": 19.0
+      }, 
+      {
+        "name": "Nutrición", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Tecnología Médica", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 16.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Farmacia y Bioquímica", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Medicina Humana", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Biología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Obstetricia", 
+        "weight": 22.0
+      }
+    ], 
+    "name": "Obstetricia", 
+    "size": 50.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Ing. Industrial", 
+        "weight": 25.0
+      }, 
+      {
+        "name": "Ing. Ambiental", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Civil", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Odontología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Industrias Alimentarias", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Enfermería", 
+        "weight": 37.0
+      }, 
+      {
+        "name": "Zootecnia", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Nutrición", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Veterinaria", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Petroquímica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 23.0
+      }, 
+      {
+        "name": "Tecnología Médica", 
+        "weight": 12.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 346.0
+      }, 
+      {
+        "name": "Química", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Contabilidad", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 28.0
+      }, 
+      {
+        "name": "Ing. Agrícola", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 10.0
+      }, 
+      {
+        "name": "Medicina Humana", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Ing. Textil", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Metalúrgica", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Informática", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Biología", 
+        "weight": 16.0
+      }, 
+      {
+        "name": "Microbiología y Parasitología", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Obstetricia", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Farmacia y Bioquímica", 
+        "weight": 196.0
+      }
+    ], 
+    "name": "Farmacia y Bioquímica", 
+    "size": 592.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Ing. Industrial", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Enfermería", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Nutrición", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Tecnología Médica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 13.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Farmacia y Bioquímica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Derecho", 
+        "weight": 58.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Medicina Humana", 
+        "weight": 63.0
+      }, 
+      {
+        "name": "Biología", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Periodismo", 
+        "weight": 58.0
+      }, 
+      {
+        "name": "Obstetricia", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Odontología", 
+        "weight": 64.0
+      }
+    ], 
+    "name": "Odontología", 
+    "size": 141.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Ing. Industrial", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. Ambiental", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Industrias Alimentarias", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Zootecnia", 
+        "weight": 21.0
+      }, 
+      {
+        "name": "Nutrición", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Forestal", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Tecnología Médica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 12.0
+      }, 
+      {
+        "name": "Farmacia y Bioquímica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Agrícola", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Agronomía", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Medicina Humana", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Biología", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Veterinaria", 
+        "weight": 32.0
+      }
+    ], 
+    "name": "Veterinaria", 
+    "size": 58.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Ing. Higiene y Seguridad Industrial", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 10.0
+      }, 
+      {
+        "name": "Ing. Ambiental", 
+        "weight": 17.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Odontología", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Industrias Alimentarias", 
+        "weight": 14.0
+      }, 
+      {
+        "name": "Ing. Geológica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Geografía", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Enfermería", 
+        "weight": 10.0
+      }, 
+      {
+        "name": "Zootecnia", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Nutrición", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Veterinaria", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Forestal", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Tecnología Médica", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 11.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Ing. Sanitaria", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 30.0
+      }, 
+      {
+        "name": "Antropología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Química", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 33.0
+      }, 
+      {
+        "name": "Ing. Pesquera", 
+        "weight": 9.0
+      }, 
+      {
+        "name": "Farmacia y Bioquímica", 
+        "weight": 16.0
+      }, 
+      {
+        "name": "Ing. Agrícola", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Agronomía", 
+        "weight": 16.0
+      }, 
+      {
+        "name": "Hotelería y Turismo", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Medicina Humana", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Sociología", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Metalúrgica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Física", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Microbiología y Parasitología", 
+        "weight": 15.0
+      }, 
+      {
+        "name": "Obstetricia", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Económica", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Biología", 
+        "weight": 23.0
+      }
+    ], 
+    "name": "Biología", 
+    "size": 121.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Publicidad", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Higiene y Seguridad Industrial", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Civil", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Enfermería", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. de Telecomunicaciones", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Tecnología Médica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Matemática", 
+        "weight": 9.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 14.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 28.0
+      }, 
+      {
+        "name": "Química", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Ing. Estadística", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. Electrónica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Medicina Humana", 
+        "weight": 10.0
+      }, 
+      {
+        "name": "Ing. Informática", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Biología", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Física", 
+        "weight": 21.0
+      }
+    ], 
+    "name": "Física", 
+    "size": 74.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Ing. Industrial", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Ing. Civil", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ciencias de la Comunicación", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Ing. de Telecomunicaciones", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 19.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 11.0
+      }, 
+      {
+        "name": "Finanzas", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Estadística", 
+        "weight": 11.0
+      }, 
+      {
+        "name": "Marketing", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Medicina Humana", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Informática", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Física", 
+        "weight": 9.0
+      }, 
+      {
+        "name": "Ing. Eléctrica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Económica", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Matemática", 
+        "weight": 18.0
+      }
+    ], 
+    "name": "Matemática", 
+    "size": 58.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Ing. Higiene y Seguridad Industrial", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Industrial", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Industrias Alimentarias", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Enfermería", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 22.0
+      }, 
+      {
+        "name": "Farmacia y Bioquímica", 
+        "weight": 8.0
+      }, 
+      {
+        "name": "Ing. Agrícola", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Electrónica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Metalúrgica", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Física", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Eléctrica", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Biología", 
+        "weight": 5.0
+      }, 
+      {
+        "name": "Ing. Mecánica", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Química", 
+        "weight": 10.0
+      }
+    ], 
+    "name": "Química", 
+    "size": 45.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Ing. Industrial", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 24.0
+      }, 
+      {
+        "name": "Ing. de Telecomunicaciones", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Administración", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 26.0
+      }, 
+      {
+        "name": "Ing. Estadística", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Electrónica", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Ing. Informática", 
+        "weight": 24.0
+      }, 
+      {
+        "name": "Ing. Eléctrica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ciencia de la Computación", 
+        "weight": 0
+      }
+    ], 
+    "name": "Ciencia de la Computación", 
+    "size": 33.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Ing. Industrial", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. Ambiental", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Ing. de Sistemas", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Industrias Alimentarias", 
+        "weight": 7.0
+      }, 
+      {
+        "name": "Geografía", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Nutrición", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Tecnología Médica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Educación", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Economía", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Ing. Sanitaria", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Carreras Técnicas", 
+        "weight": 6.0
+      }, 
+      {
+        "name": "Ing. Química", 
+        "weight": 4.0
+      }, 
+      {
+        "name": "Farmacia y Bioquímica", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Agronomía", 
+        "weight": 3.0
+      }, 
+      {
+        "name": "Hotelería y Turismo", 
+        "weight": 2.0
+      }, 
+      {
+        "name": "Biología", 
+        "weight": 15.0
+      }, 
+      {
+        "name": "Ing. Económica", 
+        "weight": 1.0
+      }, 
+      {
+        "name": "Microbiología y Parasitología", 
+        "weight": 8.0
+      }
+    ], 
+    "name": "Microbiología y Parasitología", 
+    "size": 30.0
+  }, 
+  {
+    "imports": [
+      {
+        "name": "Genética y Biotecnología", 
+        "weight": 0
+      }
+    ], 
+    "name": "Genética y Biotecnología", 
+    "size": 0.0
+  }
+]

@@ -1,0 +1,320 @@
+body
+  -webkit-text-rendering: optimizeLegibility
+  -moz-text-rendering: optimizeLegibility
+  -ms-text-rendering: optimizeLegibility
+  -o-text-rendering: optimizeLegibility
+  text-rendering: optimizeLegibility
+  -webkit-font-smoothing: antialiased
+  -moz-font-smoothing: antialiased
+  -ms-font-smoothing: antialiased
+  -o-font-smoothing: antialiased
+  font-smoothing: antialiased
+
+body
+  font-family: 'Open Sans', sans-serif
+  font-size: 14px
+  margin : 0
+
+ul
+  list-style: none
+  padding: 0
+
+a
+  text-decoration: none
+  color: #000
+
+
+#header-wrapper
+  width: 100%
+  // settings de menu css
+  background: #141414
+  background: -moz-linear-gradient(top, #333333 0%, #141414 100%)
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #333333), color-stop(100%, #141414))
+  background: -webkit-linear-gradient(top, #333333 0%, #141414 100%)
+  background: -o-linear-gradient(top, #333333 0%, #141414 100%)
+  background: -ms-linear-gradient(top, #333333 0%, #141414 100%)
+  background: linear-gradient(to bottom, #333333 0%, #141414 100%)
+  border-bottom: 2px solid #0fa1e0
+
+  &:after, #nav:after
+    content: ''
+    display: block
+    clear: both
+
+#nav
+  width : 90%
+  margin : 0 auto
+  display : block
+
+  #header-logo
+    margin-right : 20px
+
+    .social-icons-nav
+      li > a
+        padding: 20px 8px
+        display: block
+        vertical-align: middle
+        color: rgba(255,255,255,0.7)
+
+
+
+
+  ul,li,a
+    position: relative
+  ul
+    float: right
+    margin: 0
+  a
+    display: block
+    padding: 21px 20px
+    font-size : 17px
+    color: white
+    font-family: Helvetica, Arial, Verdana, sans-serif
+
+#nav > ul > li
+  float: left
+  display: inline-block
+  margin: 0
+  // shading on hover
+  &:hover > a, &.active > a
+    color: #ffffff
+    box-shadow: inset 0 0 3px #000000
+    -moz-box-shadow: inset 0 0 3px #000000
+    -webkit-box-shadow: inset 0 0 3px #000000
+    background: #070707
+    background: -moz-linear-gradient(top, #262626 0%, #070707 100%)
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #262626), color-stop(100%, #070707))
+    background: -webkit-linear-gradient(top, #262626 0%, #070707 100%)
+    background: -o-linear-gradient(top, #262626 0%, #070707 100%)
+    background: -ms-linear-gradient(top, #262626 0%, #070707 100%)
+    background: linear-gradient(to bottom, #262626 0%, #070707 100%)
+
+  // triangulito debajo de active li
+  &:hover:after
+    content: ''
+    display: block
+    width: 0
+    height: 0
+    position: absolute
+    left: 50%
+    bottom: 0
+    border-left: 10px solid transparent
+    border-right: 10px solid transparent
+    border-bottom: 10px solid #0fa1e0
+    margin-left: -10px
+
+// Sub menu
+#nav .has-sub
+  z-index: 1
+  // mostrar on mouseover
+  &:hover > ul
+    display: block
+  // normalmente ocultar
+  ul
+    display: none
+    position: absolute
+    width: 200px
+    top: 100%
+    left: 0
+
+    li a
+      background: #0fa1e0
+      border-bottom: 1px dotted #31b7f1
+      font-size: 15px
+      filter: none
+      display: block
+      line-height: 120%
+      padding: 10px
+      color: #ffffff
+    li:hover a
+      background: #0c7fb0
+
+
+//////////////////////////////////////////////////////////////
+.wrapper
+  display : block
+  width : 100%
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+.content-wrapper
+  margin: 20px auto
+  vertical-align: middle
+  width: 90%
+
+.center-panel
+  margin: 0 auto
+  vertical-align: middle
+  text-align: center
+
+.centered-box
+  display: inline-block
+  vertical-align: top
+  margin: 10px 20px
+  img
+    width: 100%
+
+.service-item
+  width: 300px
+  padding: 10px 20px
+  background-color: rgba(15,161,224,0.2)
+  border-radius: 10px
+  text-align: left
+  &:hover
+    background-color: rgba(15,161,224,0.5)
+
+.panorama-item
+  width: 450px
+  padding: 10px 20px
+  background-color: white
+  border-radius: 10px
+  text-align: left
+  vertical-align: middle
+
+  &:hover
+    background-color: rgba(15,161,224,0.2)
+
+
+.left-panel
+  display: inline-block
+  width: 68%
+  vertical-align: middle
+  text-align: center
+  padding: 0 15px
+
+.right-panel
+  display: inline-block
+  width: 25%
+  vertical-align: top
+  padding: 0 15px
+
+  #lista_x_mes
+    li
+      padding-bottom: 10px
+    li > ul > li > a:hover
+      color: #0088cc
+      text-decoration: underline
+
+//////////////////////// BLOG
+
+.blog_box-item
+  width: 250px
+  background-color: white
+  padding: 5px 20px
+  margin: 5px 10px
+  text-align: left
+  vertical-align: top
+  &:hover
+    background-color: yellow
+
+
+.list_blog-item
+  margin: 20px 10px
+  padding: 5px
+
+.inline
+  display: inline-block
+  padding-left: 10px
+  vertical-align: middle
+  text-align: left
+  img
+    width: 100%
+  span
+    float: right
+    a
+      color: #0088cc
+    a:hover
+      text-decoration: underline
+      color: #0c557d
+
+/// POST STYLES
+#post-wrapper
+  padding: 10px 15px
+  text-align: left
+
+  h2
+    color: darkred
+  h1
+    font-size: 18
+  #tags
+    margin-bottom: 30px
+    clear: both
+
+  #tags > li
+    float: left
+    background-color: blanchedalmond
+    margin: 0 5px
+    padding: 3px 5px
+
+  .main-img
+    width: 90%
+    padding: 15px 0
+
+  .icon
+    height: 30px
+  img
+    margin: 0 auto
+    display: block
+    width: 95%
+  a
+    color: #0088cc
+
+.social-bar
+  clear: both
+  ul > li
+    position: relative
+    clear: left
+    float: right
+    padding: 10px
+
+  ul.inverse > li
+    clear: right
+    float: left
+
+
+
+
+// FOOTER Y CONTACTO
+
+#footer-wrapper
+  background-color: #000000
+  position : absolute
+  letter-spacing: 1px
+
+  footer
+    margin: 0 auto
+    width: 80%
+    color: white
+    font-size: 15px
+  ul
+    float: right
+    position: relative
+
+
+.social-icons
+  padding: 0
+  margin: 0
+  li,a
+    position: relative
+  li
+    float: left
+    margin: 0
+    display: inline-block
+
+  li > a
+    padding: 20px 20px
+    padding-bottom: 5px
+    display: block
+
+
+.white-icon
+  li > a
+    color: white
+    :hover
+      color: rgba(255,255,255,0.5)
+.black-icon
+  li > a
+    color: black
+    :hover
+      color: rgba(0,0,0,0.5)
+

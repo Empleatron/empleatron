@@ -1,0 +1,61 @@
+<p>En el post anterior (<b><a href="{% url 'post' 'demanda-laboral' %}">Panorama general de la demanda laboral en el Perú</a></b>)
+    se presentó la demanda para las diversas carreras considerando el número de avisos de trabajo que las requerían.
+    Sin embargo, es necesario destacar que es muy frecuente que dichos avisos de trabajo mencionen más de una carrera
+    por vacante. Este hecho es un reflejo de que hoy en día los conocimientos solicitados son tan o más
+    importantes que la carrera específica del postulante.</p>
+
+<p>A seguir se muestra el circos plot de las profesiones, diagrama que permite visualizar el nivel de interrelación
+    entre las diversas profesiones: a mayor grosor del enlace, mayor el número de avisos compartidos entre 2
+    carreras cualesquiera --sin llegar a ser a escala--.</p>
+<a href="{% url 'circleplot' %}"><img src={{ "/media/blog/images/"|add:query_post.sku|add:"/2_1.png" }} style='width: 60%'></a>
+
+<p>A continuación pasaremos a analizar casos particulares. Existe una interrelación significativa entre las
+    <b>Carreras Técnicas</b> y las diversas profesiones que constituyen las carreras universitarias. Mientras que
+    el 43% de avisos de Carreras Técnicas solicitan solo profesionales técnicos, existe un 26% de los avisos
+    que las mencionan en conjunto con la carrera de Administración de Empresas. El porcentaje de avisos compartidos
+    con otras carreras universitarias es: Contabilidad (12%), Ingeniería Industrial (9%), Marketing (7.6%), Ingeniería
+    Informática (7.3%), Economía (6.8%), Ingeniería de Sistemas (5.9%), Ingeniería Eléctrica (3.5%), Ingeniería Mecánica (3.4%), Ingeniería Electrónica (3.3%).</p>
+<img src={{ "/media/blog/images/"|add:query_post.sku|add:"/2_2.png" }} style="width: 60%">
+
+<p>Analizando la carrera de <b>Administración de Empresas</b> se observa que ésta se encuentra fuertemente interrelacionada
+    a Carreras Técnicas, con las cuales comparte el 50% de sus avisos. Ingeniería Industrial (36%), Contabilidad (31%),
+    Economía (25%) y Marketing (18%) son las carreras universitarias más interrelacionadas con Administración de Empresas.
+    Cabe destacar que solo el 10% de los avisos de Administración de Empresas mencionan como requerimiento únicamente a esta carrera.</p>
+<img src={{ "/media/blog/images/"|add:query_post.sku|add:"/2_3.png" }} style="width: 60%">
+
+<p>En lo que respecta a la carrera de <b>Ingeniería Industrial</b>, ésta comparte el 67% de sus avisos con
+    Administración de Empresas. Otras carreras con las que Ingeniería Industrial comparte sus avisos son
+    Carreras Técnicas (33%), Economía (26%), Contabilidad (24%), entre otras. Solo el 7.4% de
+    los avisos mencionan a Ingeniería Industrial como único requerimiento.</p>
+<img src={{ "/media/blog/images/"|add:query_post.sku|add:"/2_4.png" }} style="width: 60%">
+
+<p>Continuando con el análisis, se hace evidente la gran interrelación entre las diversas carreras.
+    Es entonces posible hacer una analogía entre la red de las profesiones y una red social, donde las
+    carreras (personas) interactúan unas con otras a través del número de avisos compartidos (frecuencia de comunicación).
+    De esta manera, el circos plot inicialmente presentando constituye en sí la <b>red social de las profesiones en el Perú</b>.</p>
+
+<p>Para tener un mejor panorama del <b>nivel de interrelación entre carreras</b>, para cada carrera, se determinaron
+    los porcentajes de avisos de trabajo exclusivos; luego las carreras fueron agrupadas de acuerdo a estos
+    porcentajes de exclusividad, como se muestra en el diagrama de Pareto abajo.</p>
+
+<p>Existen 32 carreras, de un total de 80 (78 carreras universitarias, 1 por carreras técnicas y 1 por otros),
+    donde el 10% o menos de sus avisos solo mencionan dichas carreras. De manera similar, se identificaron 19
+    carreras para las cuales entre el 10 y 20% de sus avisos solo mencionan dichas carreras. Es importante destacar
+    que, para el 80% de las carreras (del total de 80), el 40% o menos de sus avisos mencionan de manera exclusiva
+    dicha carrera. Este último resultado conlleva a pensar que, probablemente, para muchos empleadores, la gran
+    preocupación al momento de reclutar trabajadores sea qué conocimientos y experiencias particulares
+    éstos poseen, y no tanto lo que dicen sus diplomas.</p>
+<img src={{ "/media/blog/images/"|add:query_post.sku|add:"/2_5.jpg" }}>
+
+<p>El porcentaje de exclusividad de una carrera, i.e. el porcentaje de avisos de trabajo exclusivos de la carrera,
+    facilita la definición de un <b>índice de transferibilidad</b>. Específicamente, el índice de transferibilidad de una
+    carrera es inversamente proporcional al porcentaje de exclusividad de la misma: a mayor porcentaje de exclusividad
+    menor índice de transferibilidad, y viceversa. El wordcloud a seguir presenta, con un tamaño de letra más grande,
+    a aquellas profesiones cuyo porcentaje de exclusividad es mayor, en otras palabras, aquellas profesiones cuyo índice de transferibilidad es menor.</p>
+
+<p>Dependiendo del punto de vista, una carrera no tan transferible puede ser buena o mala para el profesional.
+    Como ejemplo podemos citar a: Medicina Humana, Odontología y Veterinaria, donde la exclusividad puede entenderse
+    debido a requerimientos legales. Por el lado de las ingenierías, se puede ver que, en general, éstas son muy
+    transferibles (reemplazables). Ingeniería Civil e Ingeniería de Minas destacan como las ingenierías menos
+    transferibles, con aproximadamente un 30% de sus avisos siendo exclusivos.</p>
+<img src={{ "/media/blog/images/"|add:query_post.sku|add:"/2_6.png" }}>

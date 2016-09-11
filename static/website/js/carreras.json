@@ -1,0 +1,384 @@
+{
+  "name": "root", 
+  "children": [
+    {
+      "name": "Económico Empresariales", 
+      "children": [
+        {
+          "name": "Ciencias Administrativas", 
+          "children": [
+            {
+              "name": "Administración", 
+              "size": 14095
+            }, 
+            {
+              "name": "Marketing", 
+              "size": 3591
+            }, 
+            {
+              "name": "Hotelería y Turismo", 
+              "size": 1159
+            }, 
+            {
+              "name": "Negocios Internacionales", 
+              "size": 767
+            }
+          ]
+        }, 
+        {
+          "name": "Contabilidad", 
+          "size": 7465
+        }, 
+        {
+          "name": "Economía", 
+          "size": 3853
+        }, 
+        {
+          "name": "Finanzas", 
+          "size": 1284
+        }
+      ]
+    }, 
+    {
+      "name": "Carreras Técnicas", 
+      "size": 27232
+    }, 
+    {
+      "name": "Ingeniería", 
+      "children": [
+        {
+          "name": "Ing. Industrial", 
+          "size": 7445
+        }, 
+        {
+          "name": "Ing. Informática", 
+          "size": 2901
+        }, 
+        {
+          "name": "Ing. de Sistemas", 
+          "size": 2873
+        }, 
+        {
+          "name": "Ing. Mecánica", 
+          "size": 1731
+        }, 
+        {
+          "name": "Ing. Civil", 
+          "size": 1713
+        }, 
+        {
+          "name": "Ing. Eléctrica", 
+          "size": 1429
+        }, 
+        {
+          "name": "Ing. Electrónica", 
+          "size": 1302
+        }, 
+        {
+          "name": "Ing. Química", 
+          "size": 552
+        }, 
+        {
+          "name": "Arquitectura", 
+          "size": 520
+        }, 
+        {
+          "name": "Ing. de Telecomunicaciones", 
+          "size": 475
+        }, 
+        {
+          "name": "Ing. Mecánica Eléctrica", 
+          "size": 422
+        }, 
+        {
+          "name": "Industrias Alimentarias", 
+          "size": 411
+        }, 
+        {
+          "name": "Agronomía", 
+          "size": 395
+        }, 
+        {
+          "name": "Ing. Económica", 
+          "size": 355
+        }, 
+        {
+          "name": "Ing. Ambiental", 
+          "size": 350
+        }, 
+        {
+          "name": "Ing. de Minas", 
+          "size": 317
+        }, 
+        {
+          "name": "Ing. Estadística", 
+          "size": 269
+        }, 
+        {
+          "name": "Ing. Higiene y Seguridad Industrial", 
+          "size": 262
+        }, 
+        {
+          "name": "Ing. Metalúrgica", 
+          "size": 204
+        }, 
+        {
+          "name": "Ing. Mecatrónica", 
+          "size": 178
+        }, 
+        {
+          "name": "Ing. Sanitaria", 
+          "size": 155
+        }, 
+        {
+          "name": "Ing. Geológica", 
+          "size": 139
+        }, 
+        {
+          "name": "Ing. Agrícola", 
+          "size": 118
+        }, 
+        {
+          "name": "Ing. Textil", 
+          "size": 91
+        }, 
+        {
+          "name": "Zootecnia", 
+          "size": 75
+        }, 
+        {
+          "name": "Ing. Forestal", 
+          "size": 66
+        }, 
+        {
+          "name": "Ing. Pesquera", 
+          "size": 65
+        }, 
+        {
+          "name": "Ing. Mecánica de Fluidos", 
+          "size": 63
+        }, 
+        {
+          "name": "Ing. de Petróleo", 
+          "size": 32
+        }, 
+        {
+          "name": "Ing. Petroquímica", 
+          "size": 31
+        }, 
+        {
+          "name": "Ing. Naval", 
+          "size": 8
+        }, 
+        {
+          "name": "Meteorología", 
+          "size": 3
+        }
+      ]
+    }, 
+    {
+      "name": "Otros", 
+      "size": 20880
+    }, 
+    {
+      "name": "Letras", 
+      "children": [
+        {
+          "name": "Humanidades", 
+          "children": [
+            {
+              "name": "Psicología", 
+              "size": 1539
+            }, 
+            {
+              "name": "Educación", 
+              "size": 830
+            }, 
+            {
+              "name": "Bibliotecología", 
+              "size": 63
+            }, 
+            {
+              "name": "Traducción e Interpretación Profesional", 
+              "size": 53
+            }, 
+            {
+              "name": "Literatura y Lingüística", 
+              "size": 52
+            }, 
+            {
+              "name": "Filosofía", 
+              "size": 28
+            }
+          ]
+        }, 
+        {
+          "name": "Ciencias de la Comunicación", 
+          "children": [
+            {
+              "name": "Ciencias de la Comunicación", 
+              "size": 1551
+            }, 
+            {
+              "name": "Publicidad", 
+              "size": 645
+            }, 
+            {
+              "name": "Periodismo", 
+              "size": 156
+            }, 
+            {
+              "name": "Comunicación Audiovisual", 
+              "size": 57
+            }, 
+            {
+              "name": "Comunicación Organizacional", 
+              "size": 14
+            }
+          ]
+        }, 
+        {
+          "name": "Ciencias Sociales", 
+          "children": [
+            {
+              "name": "Derecho", 
+              "size": 856
+            }, 
+            {
+              "name": "Trabajo Social", 
+              "size": 488
+            }, 
+            {
+              "name": "Sociología", 
+              "size": 58
+            }, 
+            {
+              "name": "Antropología", 
+              "size": 49
+            }, 
+            {
+              "name": "Historia", 
+              "size": 20
+            }, 
+            {
+              "name": "Geografía", 
+              "size": 15
+            }, 
+            {
+              "name": "Arqueología", 
+              "size": 8
+            }
+          ]
+        }, 
+        {
+          "name": "Arte", 
+          "children": [
+            {
+              "name": "Diseño Gráfico", 
+              "size": 369
+            }, 
+            {
+              "name": "Diseño de Interiores", 
+              "size": 112
+            }, 
+            {
+              "name": "Diseño de Modas", 
+              "size": 51
+            }, 
+            {
+              "name": "Pintura", 
+              "size": 46
+            }, 
+            {
+              "name": "Diseño Industrial", 
+              "size": 15
+            }, 
+            {
+              "name": "Artes Escénicas", 
+              "size": 12
+            }, 
+            {
+              "name": "Escultura", 
+              "size": 2
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+      "name": "Ciencias de la Salud", 
+      "children": [
+        {
+          "name": "Medicina", 
+          "children": [
+            {
+              "name": "Medicina Humana", 
+              "size": 715
+            }, 
+            {
+              "name": "Enfermería", 
+              "size": 619
+            }, 
+            {
+              "name": "Tecnología Médica", 
+              "size": 159
+            }, 
+            {
+              "name": "Nutrición", 
+              "size": 135
+            }, 
+            {
+              "name": "Obstetricia", 
+              "size": 50
+            }
+          ]
+        }, 
+        {
+          "name": "Farmacia y Bioquímica", 
+          "size": 592
+        }, 
+        {
+          "name": "Odontología", 
+          "size": 141
+        }, 
+        {
+          "name": "Veterinaria", 
+          "size": 58
+        }
+      ]
+    }, 
+    {
+      "name": "Ciencias", 
+      "children": [
+        {
+          "name": "Biología", 
+          "size": 121
+        }, 
+        {
+          "name": "Física", 
+          "size": 74
+        }, 
+        {
+          "name": "Matemática", 
+          "size": 58
+        }, 
+        {
+          "name": "Química", 
+          "size": 45
+        }, 
+        {
+          "name": "Ciencia de la Computación", 
+          "size": 33
+        }, 
+        {
+          "name": "Microbiología y Parasitología", 
+          "size": 30
+        }, 
+        {
+          "name": "Genética y Biotecnología", 
+          "size": 0
+        }
+      ]
+    }
+  ]
+}

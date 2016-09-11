@@ -1,0 +1,1176 @@
+[
+  {
+    "imports": [
+      {
+        "weight": 69.0,
+        "name": "Industrial"
+      },
+      {
+        "weight": 111.0,
+        "name": "Civil"
+      },
+      {
+        "weight": 45.0,
+        "name": "Systems"
+      },
+      {
+        "weight": 59.0,
+        "name": "Telecommunications"
+      },
+      {
+        "weight": 1.0,
+        "name": "Health Systems"
+      },
+      {
+        "weight": 79.0,
+        "name": "Chemical"
+      },
+      {
+        "weight": 4.0,
+        "name": "Statistical"
+      },
+      {
+        "weight": 2.0,
+        "name": "Mining"
+      },
+      {
+        "weight": 79.0,
+        "name": "Architecture"
+      },
+      {
+        "weight": 1.0,
+        "name": "Agronomy"
+      },
+      {
+        "weight": 50.0,
+        "name": "Electronic"
+      },
+      {
+        "weight": 15.0,
+        "name": "Electrical"
+      },
+      {
+        "weight": 503.0,
+        "name": "Informatics"
+      }
+    ],
+    "name": "Informatics",
+    "size": 1196.0
+  },
+  {
+    "imports": [
+      {
+        "weight": 1.0,
+        "name": "Industrial Hygiene and Security"
+      },
+      {
+        "weight": 6.0,
+        "name": "Environmental"
+      },
+      {
+        "weight": 55.0,
+        "name": "Civil"
+      },
+      {
+        "weight": 18.0,
+        "name": "Systems"
+      },
+      {
+        "weight": 15.0,
+        "name": "Food"
+      },
+      {
+        "weight": 18.0,
+        "name": "Telecommunications"
+      },
+      {
+        "weight": 1.0,
+        "name": "Forest"
+      },
+      {
+        "weight": 6.0,
+        "name": "Health Systems"
+      },
+      {
+        "weight": 36.0,
+        "name": "Chemical"
+      },
+      {
+        "weight": 4.0,
+        "name": "Statistical"
+      },
+      {
+        "weight": 1.0,
+        "name": "Aquaculture"
+      },
+      {
+        "weight": 2.0,
+        "name": "Mining"
+      },
+      {
+        "weight": 8.0,
+        "name": "Agricultural"
+      },
+      {
+        "weight": 36.0,
+        "name": "Architecture"
+      },
+      {
+        "weight": 3.0,
+        "name": "Agronomy"
+      },
+      {
+        "weight": 47.0,
+        "name": "Electronic"
+      },
+      {
+        "weight": 11.0,
+        "name": "Metallurgical"
+      },
+      {
+        "weight": 69.0,
+        "name": "Informatics"
+      },
+      {
+        "weight": 47.0,
+        "name": "Electrical"
+      },
+      {
+        "weight": 63.0,
+        "name": "Mechanical"
+      },
+      {
+        "weight": 1.0,
+        "name": "Economics"
+      },
+      {
+        "weight": 58.0,
+        "name": "Industrial"
+      }
+    ],
+    "name": "Industrial",
+    "size": 711.0
+  },
+  {
+    "imports": [
+      {
+        "weight": 1.0,
+        "name": "Industrial Hygiene and Security"
+      },
+      {
+        "weight": 47.0,
+        "name": "Industrial"
+      },
+      {
+        "weight": 20.0,
+        "name": "Civil"
+      },
+      {
+        "weight": 3.0,
+        "name": "Systems"
+      },
+      {
+        "weight": 19.0,
+        "name": "Telecommunications"
+      },
+      {
+        "weight": 3.0,
+        "name": "Electrical Mechanical"
+      },
+      {
+        "weight": 2.0,
+        "name": "Mechatronics"
+      },
+      {
+        "weight": 3.0,
+        "name": "Health Systems"
+      },
+      {
+        "weight": 2.0,
+        "name": "Chemical"
+      },
+      {
+        "weight": 4.0,
+        "name": "Mining"
+      },
+      {
+        "weight": 132.0,
+        "name": "Electronic"
+      },
+      {
+        "weight": 3.0,
+        "name": "Metallurgical"
+      },
+      {
+        "weight": 15.0,
+        "name": "Informatics"
+      },
+      {
+        "weight": 140.0,
+        "name": "Mechanical"
+      },
+      {
+        "weight": 48.0,
+        "name": "Electrical"
+      }
+    ],
+    "name": "Electrical",
+    "size": 544.0
+  },
+  {
+    "imports": [
+      {
+        "weight": 1.0,
+        "name": "Industrial Hygiene and Security"
+      },
+      {
+        "weight": 47.0,
+        "name": "Industrial"
+      },
+      {
+        "weight": 6.0,
+        "name": "Civil"
+      },
+      {
+        "weight": 25.0,
+        "name": "Systems"
+      },
+      {
+        "weight": 82.0,
+        "name": "Telecommunications"
+      },
+      {
+        "weight": 2.0,
+        "name": "Electrical Mechanical"
+      },
+      {
+        "weight": 3.0,
+        "name": "Mechatronics"
+      },
+      {
+        "weight": 1.0,
+        "name": "Mining"
+      },
+      {
+        "weight": 2.0,
+        "name": "Metallurgical"
+      },
+      {
+        "weight": 50.0,
+        "name": "Informatics"
+      },
+      {
+        "weight": 132.0,
+        "name": "Electrical"
+      },
+      {
+        "weight": 2.0,
+        "name": "Marine"
+      },
+      {
+        "weight": 56.0,
+        "name": "Mechanical"
+      },
+      {
+        "weight": 24.0,
+        "name": "Electronic"
+      }
+    ],
+    "name": "Electronic",
+    "size": 490.0
+  },
+  {
+    "imports": [
+      {
+        "weight": 55.0,
+        "name": "Industrial"
+      },
+      {
+        "weight": 1.0,
+        "name": "Environmental"
+      },
+      {
+        "weight": 1.0,
+        "name": "Systems"
+      },
+      {
+        "weight": 2.0,
+        "name": "Food"
+      },
+      {
+        "weight": 3.0,
+        "name": "Telecommunications"
+      },
+      {
+        "weight": 5.0,
+        "name": "Forest"
+      },
+      {
+        "weight": 4.0,
+        "name": "Health Systems"
+      },
+      {
+        "weight": 82.0,
+        "name": "Chemical"
+      },
+      {
+        "weight": 5.0,
+        "name": "Statistical"
+      },
+      {
+        "weight": 1.0,
+        "name": "Aquaculture"
+      },
+      {
+        "weight": 6.0,
+        "name": "Mining"
+      },
+      {
+        "weight": 2.0,
+        "name": "Agricultural"
+      },
+      {
+        "weight": 85.0,
+        "name": "Architecture"
+      },
+      {
+        "weight": 5.0,
+        "name": "Agronomy"
+      },
+      {
+        "weight": 6.0,
+        "name": "Electronic"
+      },
+      {
+        "weight": 1.0,
+        "name": "Metallurgical"
+      },
+      {
+        "weight": 111.0,
+        "name": "Informatics"
+      },
+      {
+        "weight": 20.0,
+        "name": "Electrical"
+      },
+      {
+        "weight": 24.0,
+        "name": "Mechanical"
+      },
+      {
+        "weight": 2.0,
+        "name": "Economics"
+      },
+      {
+        "weight": 160.0,
+        "name": "Civil"
+      }
+    ],
+    "name": "Civil",
+    "size": 465.0
+  },
+  {
+    "imports": [
+      {
+        "weight": 1.0,
+        "name": "Industrial Hygiene and Security"
+      },
+      {
+        "weight": 63.0,
+        "name": "Industrial"
+      },
+      {
+        "weight": 3.0,
+        "name": "Environmental"
+      },
+      {
+        "weight": 24.0,
+        "name": "Civil"
+      },
+      {
+        "weight": 1.0,
+        "name": "Systems"
+      },
+      {
+        "weight": 4.0,
+        "name": "Telecommunications"
+      },
+      {
+        "weight": 1.0,
+        "name": "Forest"
+      },
+      {
+        "weight": 3.0,
+        "name": "Mechatronics"
+      },
+      {
+        "weight": 5.0,
+        "name": "Health Systems"
+      },
+      {
+        "weight": 5.0,
+        "name": "Chemical"
+      },
+      {
+        "weight": 5.0,
+        "name": "Mining"
+      },
+      {
+        "weight": 2.0,
+        "name": "Agricultural"
+      },
+      {
+        "weight": 1.0,
+        "name": "Agronomy"
+      },
+      {
+        "weight": 56.0,
+        "name": "Electronic"
+      },
+      {
+        "weight": 15.0,
+        "name": "Metallurgical"
+      },
+      {
+        "weight": 140.0,
+        "name": "Electrical"
+      },
+      {
+        "weight": 2.0,
+        "name": "Marine"
+      },
+      {
+        "weight": 31.0,
+        "name": "Mechanical"
+      }
+    ],
+    "name": "Mechanical",
+    "size": 424.0
+  },
+  {
+    "imports": [
+      {
+        "weight": 18.0,
+        "name": "Industrial"
+      },
+      {
+        "weight": 3.0,
+        "name": "Civil"
+      },
+      {
+        "weight": 24.0,
+        "name": "Systems"
+      },
+      {
+        "weight": 82.0,
+        "name": "Electronic"
+      },
+      {
+        "weight": 59.0,
+        "name": "Informatics"
+      },
+      {
+        "weight": 19.0,
+        "name": "Electrical"
+      },
+      {
+        "weight": 4.0,
+        "name": "Mechanical"
+      },
+      {
+        "weight": 31.0,
+        "name": "Telecommunications"
+      }
+    ],
+    "name": "Telecommunications",
+    "size": 252.0
+  },
+  {
+    "imports": [
+      {
+        "weight": 15.0,
+        "name": "Industrial"
+      },
+      {
+        "weight": 4.0,
+        "name": "Environmental"
+      },
+      {
+        "weight": 2.0,
+        "name": "Civil"
+      },
+      {
+        "weight": 25.0,
+        "name": "Chemical"
+      },
+      {
+        "weight": 10.0,
+        "name": "Agricultural"
+      },
+      {
+        "weight": 7.0,
+        "name": "Agronomy"
+      },
+      {
+        "weight": 37.0,
+        "name": "Food"
+      }
+    ],
+    "name": "Food",
+    "size": 154.0
+  },
+  {
+    "imports": [
+      {
+        "weight": 36.0,
+        "name": "Industrial"
+      },
+      {
+        "weight": 85.0,
+        "name": "Civil"
+      },
+      {
+        "weight": 4.0,
+        "name": "Systems"
+      },
+      {
+        "weight": 3.0,
+        "name": "Health Systems"
+      },
+      {
+        "weight": 79.0,
+        "name": "Chemical"
+      },
+      {
+        "weight": 79.0,
+        "name": "Informatics"
+      },
+      {
+        "weight": 22.0,
+        "name": "Architecture"
+      }
+    ],
+    "name": "Architecture",
+    "size": 148.0
+  },
+  {
+    "imports": [
+      {
+        "weight": 36.0,
+        "name": "Industrial"
+      },
+      {
+        "weight": 1.0,
+        "name": "Environmental"
+      },
+      {
+        "weight": 82.0,
+        "name": "Civil"
+      },
+      {
+        "weight": 25.0,
+        "name": "Food"
+      },
+      {
+        "weight": 2.0,
+        "name": "Agricultural"
+      },
+      {
+        "weight": 79.0,
+        "name": "Architecture"
+      },
+      {
+        "weight": 2.0,
+        "name": "Agronomy"
+      },
+      {
+        "weight": 3.0,
+        "name": "Metallurgical"
+      },
+      {
+        "weight": 79.0,
+        "name": "Informatics"
+      },
+      {
+        "weight": 2.0,
+        "name": "Electrical"
+      },
+      {
+        "weight": 5.0,
+        "name": "Mechanical"
+      },
+      {
+        "weight": 4.0,
+        "name": "Chemical"
+      }
+    ],
+    "name": "Chemical",
+    "size": 138.0
+  },
+  {
+    "imports": [
+      {
+        "weight": 6.0,
+        "name": "Industrial"
+      },
+      {
+        "weight": 4.0,
+        "name": "Civil"
+      },
+      {
+        "weight": 1.0,
+        "name": "Agricultural"
+      },
+      {
+        "weight": 3.0,
+        "name": "Architecture"
+      },
+      {
+        "weight": 1.0,
+        "name": "Informatics"
+      },
+      {
+        "weight": 3.0,
+        "name": "Electrical"
+      },
+      {
+        "weight": 5.0,
+        "name": "Mechanical"
+      },
+      {
+        "weight": 1.0,
+        "name": "Economics"
+      },
+      {
+        "weight": 19.0,
+        "name": "Health Systems"
+      }
+    ],
+    "name": "Health Systems",
+    "size": 118.0
+  },
+  {
+    "imports": [
+      {
+        "weight": 18.0,
+        "name": "Industrial"
+      },
+      {
+        "weight": 1.0,
+        "name": "Civil"
+      },
+      {
+        "weight": 24.0,
+        "name": "Telecommunications"
+      },
+      {
+        "weight": 2.0,
+        "name": "Statistical"
+      },
+      {
+        "weight": 4.0,
+        "name": "Architecture"
+      },
+      {
+        "weight": 25.0,
+        "name": "Electronic"
+      },
+      {
+        "weight": 45.0,
+        "name": "Informatics"
+      },
+      {
+        "weight": 3.0,
+        "name": "Electrical"
+      },
+      {
+        "weight": 1.0,
+        "name": "Mechanical"
+      },
+      {
+        "weight": 39.0,
+        "name": "Systems"
+      }
+    ],
+    "name": "Systems",
+    "size": 117.0
+  },
+  {
+    "imports": [
+      {
+        "weight": 2.0,
+        "name": "Industrial"
+      },
+      {
+        "weight": 6.0,
+        "name": "Civil"
+      },
+      {
+        "weight": 1.0,
+        "name": "Forest"
+      },
+      {
+        "weight": 1.0,
+        "name": "Electronic"
+      },
+      {
+        "weight": 2.0,
+        "name": "Informatics"
+      },
+      {
+        "weight": 4.0,
+        "name": "Electrical"
+      },
+      {
+        "weight": 5.0,
+        "name": "Mechanical"
+      },
+      {
+        "weight": 19.0,
+        "name": "Mining"
+      }
+    ],
+    "name": "Mining",
+    "size": 52.0
+  },
+  {
+    "imports": [
+      {
+        "weight": 3.0,
+        "name": "Industrial"
+      },
+      {
+        "weight": 3.0,
+        "name": "Environmental"
+      },
+      {
+        "weight": 5.0,
+        "name": "Civil"
+      },
+      {
+        "weight": 7.0,
+        "name": "Food"
+      },
+      {
+        "weight": 8.0,
+        "name": "Forest"
+      },
+      {
+        "weight": 2.0,
+        "name": "Chemical"
+      },
+      {
+        "weight": 1.0,
+        "name": "Aquaculture"
+      },
+      {
+        "weight": 12.0,
+        "name": "Agricultural"
+      },
+      {
+        "weight": 1.0,
+        "name": "Metallurgical"
+      },
+      {
+        "weight": 1.0,
+        "name": "Informatics"
+      },
+      {
+        "weight": 1.0,
+        "name": "Mechanical"
+      },
+      {
+        "weight": 10.0,
+        "name": "Agronomy"
+      }
+    ],
+    "name": "Agronomy",
+    "size": 44.0
+  },
+  {
+    "imports": [
+      {
+        "weight": 8.0,
+        "name": "Industrial"
+      },
+      {
+        "weight": 2.0,
+        "name": "Civil"
+      },
+      {
+        "weight": 10.0,
+        "name": "Food"
+      },
+      {
+        "weight": 3.0,
+        "name": "Forest"
+      },
+      {
+        "weight": 1.0,
+        "name": "Health Systems"
+      },
+      {
+        "weight": 2.0,
+        "name": "Chemical"
+      },
+      {
+        "weight": 12.0,
+        "name": "Agronomy"
+      },
+      {
+        "weight": 2.0,
+        "name": "Mechanical"
+      },
+      {
+        "weight": 1.0,
+        "name": "Agricultural"
+      }
+    ],
+    "name": "Agricultural",
+    "size": 36.0
+  },
+  {
+    "imports": [
+      {
+        "weight": 6.0,
+        "name": "Industrial"
+      },
+      {
+        "weight": 1.0,
+        "name": "Civil"
+      },
+      {
+        "weight": 4.0,
+        "name": "Food"
+      },
+      {
+        "weight": 4.0,
+        "name": "Forest"
+      },
+      {
+        "weight": 1.0,
+        "name": "Chemical"
+      },
+      {
+        "weight": 3.0,
+        "name": "Agronomy"
+      },
+      {
+        "weight": 3.0,
+        "name": "Mechanical"
+      },
+      {
+        "weight": 7.0,
+        "name": "Environmental"
+      }
+    ],
+    "name": "Environmental",
+    "size": 33.0
+  },
+  {
+    "imports": [
+      {
+        "weight": 1.0,
+        "name": "Industrial"
+      },
+      {
+        "weight": 1.0,
+        "name": "Electronic"
+      },
+      {
+        "weight": 1.0,
+        "name": "Electrical"
+      },
+      {
+        "weight": 1.0,
+        "name": "Mechanical"
+      },
+      {
+        "weight": 17.0,
+        "name": "Industrial Hygiene and Security"
+      }
+    ],
+    "name": "Industrial Hygiene and Security",
+    "size": 31.0
+  },
+  {
+    "imports": [
+      {
+        "weight": 11.0,
+        "name": "Industrial"
+      },
+      {
+        "weight": 1.0,
+        "name": "Civil"
+      },
+      {
+        "weight": 3.0,
+        "name": "Chemical"
+      },
+      {
+        "weight": 1.0,
+        "name": "Agronomy"
+      },
+      {
+        "weight": 2.0,
+        "name": "Electronic"
+      },
+      {
+        "weight": 3.0,
+        "name": "Electrical"
+      },
+      {
+        "weight": 15.0,
+        "name": "Mechanical"
+      },
+      {
+        "weight": 0,
+        "name": "Metallurgical"
+      }
+    ],
+    "name": "Metallurgical",
+    "size": 25.0
+  },
+  {
+    "imports": [
+      {
+        "weight": 4.0,
+        "name": "Industrial"
+      },
+      {
+        "weight": 5.0,
+        "name": "Civil"
+      },
+      {
+        "weight": 2.0,
+        "name": "Systems"
+      },
+      {
+        "weight": 4.0,
+        "name": "Informatics"
+      },
+      {
+        "weight": 3.0,
+        "name": "Statistical"
+      }
+    ],
+    "name": "Statistical",
+    "size": 25.0
+  },
+  {
+    "imports": [
+      {
+        "weight": 1.0,
+        "name": "Industrial"
+      },
+      {
+        "weight": 4.0,
+        "name": "Environmental"
+      },
+      {
+        "weight": 5.0,
+        "name": "Civil"
+      },
+      {
+        "weight": 5.0,
+        "name": "Aquaculture"
+      },
+      {
+        "weight": 1.0,
+        "name": "Mining"
+      },
+      {
+        "weight": 3.0,
+        "name": "Agricultural"
+      },
+      {
+        "weight": 8.0,
+        "name": "Agronomy"
+      },
+      {
+        "weight": 1.0,
+        "name": "Mechanical"
+      },
+      {
+        "weight": 3.0,
+        "name": "Forest"
+      }
+    ],
+    "name": "Forest",
+    "size": 22.0
+  },
+  {
+    "imports": [
+      {
+        "weight": 1.0,
+        "name": "Industrial"
+      },
+      {
+        "weight": 2.0,
+        "name": "Civil"
+      },
+      {
+        "weight": 1.0,
+        "name": "Health Systems"
+      },
+      {
+        "weight": 0,
+        "name": "Economics"
+      }
+    ],
+    "name": "Economics",
+    "size": 18.0
+  },
+  {
+    "imports": [
+      {
+        "weight": 1.0,
+        "name": "Industrial"
+      },
+      {
+        "weight": 1.0,
+        "name": "Civil"
+      },
+      {
+        "weight": 5.0,
+        "name": "Forest"
+      },
+      {
+        "weight": 1.0,
+        "name": "Agronomy"
+      },
+      {
+        "weight": 0,
+        "name": "Aquaculture"
+      }
+    ],
+    "name": "Aquaculture",
+    "size": 8.0
+  },
+  {
+    "imports": [
+      {
+        "weight": 1.0,
+        "name": "Mechatronics"
+      },
+      {
+        "weight": 2.0,
+        "name": "Electronic"
+      },
+      {
+        "weight": 3.0,
+        "name": "Electrical"
+      },
+      {
+        "weight": 0,
+        "name": "Electrical Mechanical"
+      }
+    ],
+    "name": "Electrical Mechanical",
+    "size": 8.0
+  },
+  {
+    "imports": [
+      {
+        "weight": 4.0,
+        "name": "Geological"
+      }
+    ],
+    "name": "Geological",
+    "size": 6.0
+  },
+  {
+    "imports": [
+      {
+        "weight": 4.0,
+        "name": "Textile"
+      }
+    ],
+    "name": "Textile",
+    "size": 5.0
+  },
+  {
+    "imports": [
+      {
+        "weight": 1.0,
+        "name": "Electrical Mechanical"
+      },
+      {
+        "weight": 3.0,
+        "name": "Electronic"
+      },
+      {
+        "weight": 2.0,
+        "name": "Electrical"
+      },
+      {
+        "weight": 3.0,
+        "name": "Mechanical"
+      },
+      {
+        "weight": 0,
+        "name": "Mechatronics"
+      }
+    ],
+    "name": "Mechatronics",
+    "size": 4.0
+  },
+  {
+    "imports": [
+      {
+        "weight": 2.0,
+        "name": "Electronic"
+      },
+      {
+        "weight": 2.0,
+        "name": "Mechanical"
+      },
+      {
+        "weight": 0,
+        "name": "Marine"
+      }
+    ],
+    "name": "Marine",
+    "size": 2.0
+  },
+  {
+    "imports": [
+      {
+        "weight": 0,
+        "name": "Animal Husbandry"
+      }
+    ],
+    "name": "Animal Husbandry",
+    "size": 0.0
+  },
+  {
+    "imports": [
+      {
+        "weight": 0,
+        "name": "Petroleum"
+      }
+    ],
+    "name": "Petroleum",
+    "size": 0.0
+  },
+  {
+    "imports": [
+      {
+        "weight": 0,
+        "name": "Petrochemical"
+      }
+    ],
+    "name": "Petrochemical",
+    "size": 0.0
+  },
+  {
+    "imports": [
+      {
+        "weight": 0,
+        "name": "Fluid Mechanics"
+      }
+    ],
+    "name": "Fluid Mechanics",
+    "size": 0.0
+  }
+]

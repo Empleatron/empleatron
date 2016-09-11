@@ -1,0 +1,134 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "size": 19502,
+          "name": "Industrial"
+        },
+        {
+          "size": 8164,
+          "name": "Systems"
+        },
+        {
+          "size": 7296,
+          "name": "Informatics"
+        },
+        {
+          "size": 4393,
+          "name": "Electrical"
+        },
+        {
+          "size": 4388,
+          "name": "Mechanical"
+        },
+        {
+          "size": 4137,
+          "name": "Electronic"
+        },
+        {
+          "size": 3731,
+          "name": "Civil"
+        },
+        {
+          "size": 1876,
+          "name": "Telecommunications"
+        },
+        {
+          "size": 1618,
+          "name": "Chemical"
+        },
+        {
+          "size": 1567,
+          "name": "Health Systems"
+        },
+        {
+          "size": 1486,
+          "name": "Mining"
+        },
+        {
+          "size": 1325,
+          "name": "Architecture"
+        },
+        {
+          "size": 1183,
+          "name": "Agronomy"
+        },
+        {
+          "size": 1115,
+          "name": "Food"
+        },
+        {
+          "size": 1054,
+          "name": "Environmental"
+        },
+        {
+          "size": 911,
+          "name": "Electrical Mechanical"
+        },
+        {
+          "size": 812,
+          "name": "Economics"
+        },
+        {
+          "size": 679,
+          "name": "Statistical"
+        },
+        {
+          "size": 646,
+          "name": "Industrial Hygiene and Security"
+        },
+        {
+          "size": 519,
+          "name": "Metallurgical"
+        },
+        {
+          "size": 468,
+          "name": "Mechatronics"
+        },
+        {
+          "size": 416,
+          "name": "Agricultural"
+        },
+        {
+          "size": 361,
+          "name": "Geological"
+        },
+        {
+          "size": 227,
+          "name": "Textile"
+        },
+        {
+          "size": 205,
+          "name": "Aquaculture"
+        },
+        {
+          "size": 148,
+          "name": "Animal Husbandry"
+        },
+        {
+          "size": 146,
+          "name": "Forest"
+        },
+        {
+          "size": 123,
+          "name": "Fluid Mechanics"
+        },
+        {
+          "size": 111,
+          "name": "Petroleum"
+        },
+        {
+          "size": 62,
+          "name": "Petrochemical"
+        },
+        {
+          "size": 13,
+          "name": "Marine"
+        }
+      ],
+      "name": "Engineering"
+    }
+  ],
+  "name": "root"
+}
