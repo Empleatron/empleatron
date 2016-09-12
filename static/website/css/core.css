@@ -42,14 +42,9 @@ a {
 /* line 27, ../sass/partials/_base.sass */
 #header-wrapper {
   width: 100%;
-  background: #141414;
-  background: -moz-linear-gradient(top, #333333 0%, #141414 100%);
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #333333), color-stop(100%, #141414));
-  background: -webkit-linear-gradient(top, #333333 0%, #141414 100%);
-  background: -o-linear-gradient(top, #333333 0%, #141414 100%);
-  background: -ms-linear-gradient(top, #333333 0%, #141414 100%);
-  background: linear-gradient(to bottom, #333333 0%, #141414 100%);
-  border-bottom: 2px solid #0fa1e0;
+  background: #3197ab;
+
+  border-bottom: 2px solid #333333;
 }
 /* line 39, ../sass/partials/_base.sass */
 #header-wrapper:after, #header-wrapper #nav:after {
@@ -102,16 +97,8 @@ a {
 /* line 79, ../sass/partials/_base.sass */
 #nav > ul > li:hover > a, #nav > ul > li.active > a {
   color: white;
-  box-shadow: inset 0 0 3px black;
-  -moz-box-shadow: inset 0 0 3px black;
-  -webkit-box-shadow: inset 0 0 3px black;
-  background: #070707;
-  background: -moz-linear-gradient(top, #262626 0%, #070707 100%);
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #262626), color-stop(100%, #070707));
-  background: -webkit-linear-gradient(top, #262626 0%, #070707 100%);
-  background: -o-linear-gradient(top, #262626 0%, #070707 100%);
-  background: -ms-linear-gradient(top, #262626 0%, #070707 100%);
-  background: linear-gradient(to bottom, #262626 0%, #070707 100%);
+
+  background: ##3197ab;
 }
 /* line 93, ../sass/partials/_base.sass */
 #nav > ul > li:hover:after {
@@ -353,7 +340,7 @@ a {
 
 /* line 279, ../sass/partials/_base.sass */
 #footer-wrapper {
-  background-color: black;
+  background-color: #ffffff;
   position: absolute;
   letter-spacing: 1px;
 }
