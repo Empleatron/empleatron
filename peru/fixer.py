@@ -23,7 +23,7 @@ def fix(pagename):
 	lines = lines.replace('<li><a href="' + prefix + 'panorama/demanda-laboral/index.html">Panorama de la demanda laboral peruana</a></li>', '')
 	lines = lines.replace('<li><a href="' + prefix + 'panorama/interrelacion-carreras.html">Interrelación entre carreras en el Perú</a></li>', '')
 	lines = lines.replace('href="../index.html"', 'href="https://empleatron.github.io/peru/blog/index.html"')
-	#lines = lines.replace('', '')
+	lines = lines.replace('red-social-profesiones', 'red_social_profesiones')
 
 
 	page.close()
