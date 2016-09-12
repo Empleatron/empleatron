@@ -2,18 +2,30 @@ from os import walk
 from os import listdir
 from os.path import isfile, join
 
-directory = '/home/keffbello/Downloads/emp_website/127.0.0.1_8000/peru'
+directory = '/home/keffbello/Downloads/emp_website/empleatron.github.io/peru'
 ln = len(directory)
 
 def fix(pagename):	
-	depth = len(pagename[ln+1:].split('/'))
+	depth = len(pagename[ln+1:].split('/')) - 1
 	prefix = ''
 	for i in range(depth):
 		prefix = prefix + '../'
 	# Reading and replacing	
 	page = open(pagename, 'r')
 	lines = page.read()
+	print("FIXING:", pagename[ln+1:], prefix)
 	lines = lines.replace('http://127.0.0.1:8000', prefix)
+	lines = lines.replace('<li><a href="' + prefix + 'nosotros/index.html"       > Nosotros</a></li>', '')
+	lines = lines.replace('<li><a href="' + prefix + 'index.html"               > Inicio</a></li>', '')
+	lines = lines.replace('<li><a href="' + prefix + 'soluciones/index.html"           > Soluciones</a></li>', '')
+	lines = lines.replace('<li class="has-sub"><a href="' + prefix + 'panorama/index.html"> Panorama Laboral</a>', '')
+	lines = lines.replace('<li><a href="' + prefix + 'contacto/index.html"   > Contacto</a></li>', '')
+	lines = lines.replace('<li><a href="' + prefix + 'panorama/demanda-laboral/index.html">Panorama de la demanda laboral peruana</a></li>', '')
+	lines = lines.replace('<li><a href="' + prefix + 'panorama/interrelacion-carreras.html">Interrelación entre carreras en el Perú</a></li>', '')
+	#lines = lines.replace('', '')
+	#lines = lines.replace('', '')
+
+
 	page.close()
 	# Writing
 	page = open(pagename, 'w')
